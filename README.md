@@ -4,7 +4,7 @@
 This is the French (FR) language pack for the Wrath of the Lich King version of the [MultiLanguage addon](https://www.curseforge.com/wow/addons/multilanguage). It requires the base addon to work. Installing it adds the French option within the addon configuration. This language pack is not required for the classic version of the game, only for Wrath of the Lich King.
 
 ## Download
-The [Curseforge Client](https://curseforge.overwolf.com/) can be used to find and download this addon once it has been listed. It can also be found on its [Curseforge page](https://www.curseforge.com/wow/addons/multilanguage_de).
+The [Curseforge Client](https://curseforge.overwolf.com/) can be used to find and download this addon once it has been listed. It can also be found on its [Curseforge page](https://www.curseforge.com/wow/addons/multilanguage_fr).
 
 If you prefer to download the addon manually, you can do so by visiting the releases page, selecting your preferred version, and placing it in your addons folder.
 
