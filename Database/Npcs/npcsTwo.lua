@@ -3473,7 +3473,6 @@ MultiLanguageNpcData['fr'][68995] = {name = "Amateur de bastons élégant", subn
 MultiLanguageNpcData['fr'][68996] = {name = "Amatrice de bastons élégante", subname = nil}
 MultiLanguageNpcData['fr'][68997] = {name = "Général Nazgrim", subname = nil}
 MultiLanguageNpcData['fr'][68998] = {name = "Kromthar", subname = nil}
-MultiLanguageNpcData['fr'][68999] = {name = "Rivett Popembraye", subname = nil}
 MultiLanguageNpcData['fr'][69000] = {name = "Maîtresse de l’Ombre Kiryn", subname = nil}
 MultiLanguageNpcData['fr'][69001] = {name = "Shokia", subname = nil}
 MultiLanguageNpcData['fr'][69002] = {name = "Seigneur de guerre Garde-Sanglante", subname = nil}
@@ -9476,6 +9475,7 @@ MultiLanguageNpcData['fr'][76595] = {name = "Prêtresse de l’âme sargereï", 
 MultiLanguageNpcData['fr'][76596] = {name = "Magus auchenaï", subname = nil}
 MultiLanguageNpcData['fr'][76597] = {name = "Loup alpha de givre", subname = nil}
 MultiLanguageNpcData['fr'][76598] = {name = "Rituel des ossements", subname = nil}
+MultiLanguageNpcData['fr'][76599] = {name = "Tremble-terre fer-noir", subname = nil}
 MultiLanguageNpcData['fr'][76600] = {name = "Burrow Visual Stalker", subname = nil}
 MultiLanguageNpcData['fr'][76602] = {name = "Oreille-Dressée", subname = "Compagnon de Drek’Thar"}
 MultiLanguageNpcData['fr'][76603] = {name = "Illona Vehicle", subname = nil}
@@ -9677,6 +9677,7 @@ MultiLanguageNpcData['fr'][76815] = {name = "Elémentaliste primordiale", subnam
 MultiLanguageNpcData['fr'][76816] = {name = "Exarque Maladaar", subname = nil}
 MultiLanguageNpcData['fr'][76817] = {name = "Ormuus", subname = "Elekk de Maladaar"}
 MultiLanguageNpcData['fr'][76818] = {name = "Horreur du Vide", subname = nil}
+MultiLanguageNpcData['fr'][76819] = {name = "Déchireur de Givrefeu", subname = nil}
 MultiLanguageNpcData['fr'][76820] = {name = "Orac", subname = nil}
 MultiLanguageNpcData['fr'][76821] = {name = "Mandefeu", subname = nil}
 MultiLanguageNpcData['fr'][76822] = {name = "Patte-de-Glace", subname = nil}

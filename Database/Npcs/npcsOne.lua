@@ -1,4 +1,4 @@
-MultiLanguageNpcData['fr'][1] = {name = "Waypoint (Only GM can see it)", subname = nil}
+MultiLanguageNpcData['fr'][1] = {name = "Waypoint (Only GM can see it)", subname = "[Visual]"}
 MultiLanguageNpcData['fr'][2] = {name = "Imp Minion", subname = nil}
 MultiLanguageNpcData['fr'][3] = {name = "Dévoreur", subname = nil}
 MultiLanguageNpcData['fr'][4] = {name = "Tournament Supervisor", subname = nil}
@@ -4863,7 +4863,6 @@ MultiLanguageNpcData['fr'][5983] = {name = "Racleur-d'os gangre-nourrisseur", su
 MultiLanguageNpcData['fr'][5984] = {name = "Raillecroc affamée", subname = nil}
 MultiLanguageNpcData['fr'][5985] = {name = "Hyène Raillecroc", subname = nil}
 MultiLanguageNpcData['fr'][5986] = {name = "Raillecroc enragée", subname = nil}
-MultiLanguageNpcData['fr'][5987] = {name = "Scorpok mordeur", subname = nil}
 MultiLanguageNpcData['fr'][5988] = {name = "Aiguillonneur scorpok", subname = nil}
 MultiLanguageNpcData['fr'][5989] = {name = "Scorpok flagellant", subname = nil}
 MultiLanguageNpcData['fr'][5990] = {name = "Basilic Rougepierre", subname = nil}
@@ -28331,7 +28330,7 @@ MultiLanguageNpcData['fr'][39384] = {name = "Dragonnet nocif", subname = nil}
 MultiLanguageNpcData['fr'][39385] = {name = "Tranchecri", subname = nil}
 MultiLanguageNpcData['fr'][39386] = {name = "Pilote Muserouage", subname = nil}
 MultiLanguageNpcData['fr'][39387] = {name = "Totem d'élémentaire de terre", subname = "Totem de chaman du Cercle terrestre"}
-MultiLanguageNpcData['fr'][39388] = {name = "Jeune du Crépuscule", subname = nil}
+MultiLanguageNpcData['fr'][39388] = {name = "Juvénile muté", subname = nil}
 MultiLanguageNpcData['fr'][39389] = {name = "Elémentaire de terre supérieur", subname = nil}
 MultiLanguageNpcData['fr'][39390] = {name = "Drake du Crépuscule", subname = nil}
 MultiLanguageNpcData['fr'][39391] = {name = "Néophyte du Crépuscule", subname = nil}
@@ -29007,7 +29006,7 @@ MultiLanguageNpcData['fr'][40352] = {name = "Féticheur Hez'tok", subname = nil}
 MultiLanguageNpcData['fr'][40353] = {name = "Meatstick 01", subname = nil}
 MultiLanguageNpcData['fr'][40355] = {name = "Invocation of Flame Stalker", subname = nil}
 MultiLanguageNpcData['fr'][40356] = {name = "Danseur rituel", subname = nil}
-MultiLanguageNpcData['fr'][40357] = {name = "Esprit enflammé invoqué", subname = nil}
+MultiLanguageNpcData['fr'][40357] = {name = "Esprit d'ombreflamme invoqué", subname = nil}
 MultiLanguageNpcData['fr'][40358] = {name = "Dyslix Fouinargent", subname = "Maître de vol"}
 MultiLanguageNpcData['fr'][40359] = {name = "Viande de tortue", subname = nil}
 MultiLanguageNpcData['fr'][40360] = {name = "Archer de Pennelune", subname = nil}
