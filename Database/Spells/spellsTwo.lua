@@ -1,4 +1,3 @@
-MultiLanguageSpellData['fr'][77391] = {name = "Temps restant à pomper", additional_info = nil}
 MultiLanguageSpellData['fr'][77392] = {name = "Oeuf luminescent", additional_info = nil}
 MultiLanguageSpellData['fr'][77393] = {name = "Vecteur d'agents ultra-sécurisé", additional_info = nil}
 MultiLanguageSpellData['fr'][77394] = {name = "Une prière pour Aviana", additional_info = "5 m de portée\n3 s d'incantation\n[q]Fait appel à l'esprit ressuscité d'Aviana."}
@@ -6508,7 +6507,7 @@ MultiLanguageSpellData['fr'][85979] = {name = "Souffle de la tempête", addition
 MultiLanguageSpellData['fr'][85980] = {name = "Souffle de la tempête", additional_info = nil}
 MultiLanguageSpellData['fr'][85981] = {name = "Naissance de revenant", additional_info = nil}
 MultiLanguageSpellData['fr'][85998] = {name = "Up to the Citadel: Summon Cho'gall - Alliance", additional_info = nil}
-MultiLanguageSpellData['fr'][86000] = {name = "Malédiction de Gul'dan", additional_info = "22% de la mana de base Portée illimitée\nInstantanée\n[q]Summons a falling meteor down upon the enemy target, dealing 1793 Shadowflame damage and erupts an aura of magic within 4 yards, causing all targets within it to have a 10% increased chance to be critically hit by the abilities any Warlock demon pets. The aura lasts for 15 sec."}
+MultiLanguageSpellData['fr'][86000] = {name = "Malédiction de Gul'dan", additional_info = "22% de la mana de base Portée illimitée\nInstantanée\n[q]Summons a falling meteor down upon the enemy target, dealing 1793 Shadowflame damage and erupts an aura of magic within 4 yards, causing all targets within it to have a 10% increased chance to be critically hit by the abilities of any Warlock demon pets. The aura lasts for 15 sec."}
 MultiLanguageSpellData['fr'][86002] = {name = "Absorption fétide", additional_info = "Instantanée\n[q]Protégé par un nuage pestilentiel. Absorbe 120 points de dégâts."}
 MultiLanguageSpellData['fr'][86003] = {name = "Inerte", additional_info = "Instantanée\n[q]Ce dragon a été grièvement blessé. Ses yeux sont vitreux et son regard est flou ; du sang coule de plusieurs entailles sur ses flancs et son dos."}
 MultiLanguageSpellData['fr'][86004] = {name = "Encre aigue-sombre", additional_info = "2 s d'incantation\nOutils: Coffret de calligraphie de virtuose\nComposants:\nPigment cendreux (2)"}
@@ -14900,7 +14899,7 @@ MultiLanguageSpellData['fr'][98159] = {name = "Piège de magma", additional_info
 MultiLanguageSpellData['fr'][98161] = {name = "Wisp to Portal Pulse", additional_info = nil}
 MultiLanguageSpellData['fr'][98162] = {name = "Portail vers la réaction des feux follets", additional_info = nil}
 MultiLanguageSpellData['fr'][98163] = {name = "Wyrmkin Pre-Beam Effect", additional_info = nil}
-MultiLanguageSpellData['fr'][98164] = {name = "Piège de magma", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros crée un Piège de magma à l’emplacement de la cible. Quand celui-ci est déclenché, il provoque une Eruption du piège de magma, qui inflige 97500 to 102500 points de dégâts de Feu à tous les ennemis et projette l'ennemi qui a déclenché le piège extrêmement haut dans les airs."}
+MultiLanguageSpellData['fr'][98164] = {name = "Piège de magma", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros crée un Piège de magma à l’emplacement de la cible. Quand celui-ci est déclenché, il provoque une Eruption du piège de magma, qui inflige 117000 to 123000 points de dégâts de Feu à tous les ennemis et projette l'ennemi qui a déclenché le piège extrêmement haut dans les airs."}
 MultiLanguageSpellData['fr'][98165] = {name = "Twilight Beam - Left Front", additional_info = nil}
 MultiLanguageSpellData['fr'][98166] = {name = "Twilight Beam - Right Front", additional_info = nil}
 MultiLanguageSpellData['fr'][98167] = {name = "Twilight Beam - Rear", additional_info = nil}
@@ -14910,7 +14909,7 @@ MultiLanguageSpellData['fr'][98171] = {name = "Piège de magma", additional_info
 MultiLanguageSpellData['fr'][98172] = {name = "Piège de magma", additional_info = nil}
 MultiLanguageSpellData['fr'][98173] = {name = "Impact de rayon de Kalecgos", additional_info = nil}
 MultiLanguageSpellData['fr'][98174] = {name = "Visuel du barrage des Arcanes", additional_info = nil}
-MultiLanguageSpellData['fr'][98175] = {name = "Eruption du piège de magma", additional_info = "Portée illimitée\nInstantanée\n[q]L’éruption de magma inflige 97500 to 102500 points de dégâts de Feu à tous les ennemis et projette en l’air les ennemis dans un rayon de 8 mètres de l’éruption."}
+MultiLanguageSpellData['fr'][98175] = {name = "Eruption du piège de magma", additional_info = "Portée illimitée\nInstantanée\n[q]L’éruption de magma inflige 117000 to 123000 points de dégâts de Feu à tous les ennemis et projette en l’air les ennemis dans un rayon de 8 mètres de l’éruption."}
 MultiLanguageSpellData['fr'][98177] = {name = "Create Rat Cover", additional_info = nil}
 MultiLanguageSpellData['fr'][98178] = {name = "Création de rat", additional_info = nil}
 MultiLanguageSpellData['fr'][98179] = {name = "Piège de magma", additional_info = nil}
@@ -14961,7 +14960,7 @@ MultiLanguageSpellData['fr'][98231] = {name = "Impulsion de la bombe", additiona
 MultiLanguageSpellData['fr'][98233] = {name = "Explosion de tête", additional_info = nil}
 MultiLanguageSpellData['fr'][98234] = {name = "Provocation de l’attaquant le plus proche", additional_info = nil}
 MultiLanguageSpellData['fr'][98235] = {name = "Explosion de tête", additional_info = nil}
-MultiLanguageSpellData['fr'][98237] = {name = "Main de Ragnaros", additional_info = "Portée illimitée\nInstantanée\n[q]La Main de Ragnaros inflige 33150 to 34850 points de dégâts de Feu à tous les ennemis à moins de 55 mètres et les fait tomber à la renverse."}
+MultiLanguageSpellData['fr'][98237] = {name = "Main de Ragnaros", additional_info = "Portée illimitée\nInstantanée\n[q]La Main de Ragnaros inflige 39000 to 41000 points de dégâts de Feu à tous les ennemis à moins de 55 mètres et les fait tomber à la renverse."}
 MultiLanguageSpellData['fr'][98238] = {name = "Piège à rat", additional_info = nil}
 MultiLanguageSpellData['fr'][98239] = {name = "Frénésie sanglante", additional_info = "Instantanée\n[q]Vitesse d'attaque augmentée de 150%.\n Dégâts infligés augmentés de 50%."}
 MultiLanguageSpellData['fr'][98240] = {name = "Explosion ombreuse", additional_info = nil}
@@ -14982,7 +14981,7 @@ MultiLanguageSpellData['fr'][98256] = {name = "Concentration", additional_info =
 MultiLanguageSpellData['fr'][98257] = {name = "Boss Emote Kalecgos 03", additional_info = nil}
 MultiLanguageSpellData['fr'][98259] = {name = "Colère de Ragnaros", additional_info = nil}
 MultiLanguageSpellData['fr'][98261] = {name = "La pilule amère", additional_info = "0.1 s d'incantation\n[q]Place la bombe au sol devant vous."}
-MultiLanguageSpellData['fr'][98263] = {name = "Colère de Ragnaros", additional_info = "Portée illimitée\nInstantanée\n[q]La Colère de Ragnaros inflige 62156 to 65343 points de dégâts de Feu aux ennemis à moins de 6 mètres de la cible et les fait tomber à la renverse."}
+MultiLanguageSpellData['fr'][98263] = {name = "Colère de Ragnaros", additional_info = "Portée illimitée\nInstantanée\n[q]La Colère de Ragnaros inflige 73125 to 76875 points de dégâts de Feu aux ennemis à moins de 6 mètres de la cible et les fait tomber à la renverse."}
 MultiLanguageSpellData['fr'][98264] = {name = "Eruption", additional_info = "Instantanée\n[q]Ce volcan est sur le point d’entrer en éruption."}
 MultiLanguageSpellData['fr'][98265] = {name = "Tube de lave", additional_info = nil}
 MultiLanguageSpellData['fr'][98267] = {name = "Invocation du lit de mort de Tarecgosa", additional_info = nil}
@@ -15097,18 +15096,18 @@ MultiLanguageSpellData['fr'][98443] = {name = "Cyclone ardent", additional_info 
 MultiLanguageSpellData['fr'][98444] = {name = "Corne à boire vrykule", additional_info = "1.5 s d'incantation\n[q]Buvez à la corne à boire vrykule."}
 MultiLanguageSpellData['fr'][98445] = {name = "Emprisonné dans l’ambre", additional_info = "{1 s d'incantation} {30 min de recharge}\n[q]Devient emprisonné dans l’ambre."}
 MultiLanguageSpellData['fr'][98447] = {name = "Tambour de guerre hanté", additional_info = "5 m de portée\n3 s d'incantation\n[q]Placez et écoutez le tambour de guerre hanté."}
-MultiLanguageSpellData['fr'][98450] = {name = "Graines incendiaires", additional_info = "4 s d'incantation\n[q]Plante des graines incendiaires sur les ennemis du lanceur. Chaque graine pousse à une vitesse différente. Lorsque sa croissance est achevée, la graine explose, infligeant 63750 points de dégâts de Feu aux cibles à moins de 12 mètres."}
+MultiLanguageSpellData['fr'][98450] = {name = "Graines incendiaires", additional_info = "4 s d'incantation\n[q]Plante des graines incendiaires sur les ennemis du lanceur. Chaque graine pousse à une vitesse différente. Lorsque sa croissance est achevée, la graine explose, infligeant 75000 points de dégâts de Feu aux cibles à moins de 12 mètres."}
 MultiLanguageSpellData['fr'][98451] = {name = "Orbes ardents", additional_info = "4 s d'incantation\n[q]Invoque des orbes ardents pour attaquer les ennemis du lanceur de sorts."}
 MultiLanguageSpellData['fr'][98462] = {name = "Feu volcanique", additional_info = nil}
 MultiLanguageSpellData['fr'][98463] = {name = "Feu volcanique", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige des dégâts de Feu."}
 MultiLanguageSpellData['fr'][98466] = {name = "Défenseur du camp rebelle", additional_info = nil}
 MultiLanguageSpellData['fr'][98468] = {name = "Tir", additional_info = "45 m de portée\nInstantanée\nRequiert Arme à distance\n[q]Tire sur un ennemi et lui inflige des dégâts physiques."}
 MultiLanguageSpellData['fr'][98470] = {name = "Défenseur de Grom'gol", additional_info = nil}
-MultiLanguageSpellData['fr'][98471] = {name = "Acide brûlant", additional_info = "80 m de portée\n{Instantanée} {2 s de recharge}\n[q]Inflige 26347 to 29562 points de dégâts de Feu à un ennemi."}
+MultiLanguageSpellData['fr'][98471] = {name = "Acide brûlant", additional_info = "80 m de portée\n{Instantanée} {2 s de recharge}\n[q]Inflige 30914 to 34862 points de dégâts de Feu à un ennemi."}
 MultiLanguageSpellData['fr'][98472] = {name = "Magma", additional_info = "Instantanée\n[q]Inflige des dégâts de Feu toutes les 3 s."}
 MultiLanguageSpellData['fr'][98473] = {name = "Vitesse ardente", additional_info = "Portée illimitée\nInstantanée\n[q]La vitesse du Fils de la flamme décroît à mesure qu’il perd des points de vie. Son ralentissement est complet à 50% de points de vie."}
 MultiLanguageSpellData['fr'][98474] = {name = "Faux de flammes", additional_info = "Energie : 100\nInstantanée\n[q]Inflige des dégâts de Feu dans un cône devant le lanceur de sorts. Les dégâts sont divisés à part égale entre les cibles touchées."}
-MultiLanguageSpellData['fr'][98476] = {name = "Flammes bondissantes", additional_info = "{Energie : 100} {90 m de portée}\nInstantanée\n[q]Bondit sur un ennemi, inflige 26036 to 29213 points de dégâts de Feu dans une zone de taille réduite et crée un Esprit de la flamme."}
+MultiLanguageSpellData['fr'][98476] = {name = "Flammes bondissantes", additional_info = "{Energie : 100} {90 m de portée}\nInstantanée\n[q]Bondit sur un ennemi, inflige 30630 to 34368 points de dégâts de Feu dans une zone de taille réduite et crée un Esprit de la flamme."}
 MultiLanguageSpellData['fr'][98477] = {name = "4.1 - ZG Event - RC/GG - Summon Bloodlord Mandokir", additional_info = nil}
 MultiLanguageSpellData['fr'][98478] = {name = "4.1 - ZG Event - RC/GG - Summon Bloodlord Mandokir", additional_info = nil}
 MultiLanguageSpellData['fr'][98479] = {name = "En laisse", additional_info = "40 m de portée\nCanalisée (0 s d'incantation)\n[q]Une lourde laisse en chaîne."}
@@ -15121,9 +15120,9 @@ MultiLanguageSpellData['fr'][98489] = {name = "Frappe de lave", additional_info 
 MultiLanguageSpellData['fr'][98491] = {name = "Frappe de lave", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 10000 points de dégâts de Feu et augmente les dégâts de Feu subis de 10%. Cumulable jusqu’à 20 fois. Dure until cancelled."}
 MultiLanguageSpellData['fr'][98492] = {name = "Eruption", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 12000 points de dégâts de Feu et augmente les dégâts de Feu subis de 10%. Cumulable jusqu’à 20 fois. Dure 15 sec."}
 MultiLanguageSpellData['fr'][98493] = {name = "Volcan ardent", additional_info = "Instantanée\n[q]Enflamme le magma sous le volcan ciblé."}
-MultiLanguageSpellData['fr'][98495] = {name = "Graine en fusion", additional_info = "Portée illimitée\nInstantanée\n[q]Tire sur la cible une Graine en fusion qui inflige 62156 to 65343 points de dégâts de Feu aux ennemis à moins de 6 mètres."}
+MultiLanguageSpellData['fr'][98495] = {name = "Graine en fusion", additional_info = "Portée illimitée\nInstantanée\n[q]Tire sur la cible une Graine en fusion qui inflige 73125 to 76875 points de dégâts de Feu aux ennemis à moins de 6 mètres."}
 MultiLanguageSpellData['fr'][98497] = {name = "Graine en fusion", additional_info = nil}
-MultiLanguageSpellData['fr'][98498] = {name = "Graine en fusion", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 62156 to 65343 points de dégâts de Feu aux ennemis se trouvant à moins de 6 mètres et crée une Graine en fusion à leur emplacement."}
+MultiLanguageSpellData['fr'][98498] = {name = "Graine en fusion", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 73125 to 76875 points de dégâts de Feu aux ennemis se trouvant à moins de 6 mètres et crée une Graine en fusion à leur emplacement."}
 MultiLanguageSpellData['fr'][98499] = {name = "Météore", additional_info = "Portée illimitée\nInstantanée\n[q]Un météore tombe du ciel."}
 MultiLanguageSpellData['fr'][98500] = {name = "Frappe météore", additional_info = "40 m de portée\nInstantanée\n[q]Un météore ardent s’abat sur le sol, explose en infligeant 27750 to 32250 points de dégâts et fait tomber les personnages-joueurs proches en arrière."}
 MultiLanguageSpellData['fr'][98501] = {name = "Puits aérifère", additional_info = "Instantanée\n[q]Les courants thermiques ascendants vous permettent de sauter beaucoup plus haut et plus loin que la normale.\n(500ms de recharge)"}
@@ -15154,7 +15153,7 @@ MultiLanguageSpellData['fr'][98531] = {name = "Corruption worgen", additional_in
 MultiLanguageSpellData['fr'][98532] = {name = "Corruption worgen", additional_info = "Allonge\nInstantanée\n[q]La cible devient temporairement victime de la malédiction worgen. Tant que dure la transformation, les vitesses d'attaque en mêlée et à distance ainsi que la vitesse d'incantation sont augmentées de 20%, mais l'armure est réduite de 20%."}
 MultiLanguageSpellData['fr'][98533] = {name = "[q4]Carapace de tortue disparue", additional_info = "3 s d'incantation 15\n[q]Les tortues sont d’anciennes créatures qui ont peu changé au cours des éons. Il en existe trois catégories principales : les tortues de mer, de terre et d’eau douce. Cette carapace provient probablement d’une tortue de terre, même si elle est quasiment impénétrable et qu'elle ferait un fantastique bouclier quoiqu'un peu ridicule.\n[q4]Carapace de tortue disparue\nLié au compte\nMain gauche Bouclier\nArmure : 11896\n+190 Force\n+286 Endurance\n[q2]Augmente votre score de maîtrise de + 134.\nDurabilité 120 / 120\n85 requis\n[q2]Équipé : Augmente de 114 le score d’esquive."}
 MultiLanguageSpellData['fr'][98534] = {name = "Brûlure météorique", additional_info = "40 m de portée\nInstantanée\n[q]De la fumée s’élève du cratère calciné où s’est abattu un météore."}
-MultiLanguageSpellData['fr'][98535] = {name = "Flammes bondissantes", additional_info = "Portée illimitée\nInstantanée\n[q]Fandral bondit sur un ennemi, laissant derrière lui un Esprit de la flamme. Il atterrit dans un brasier de gloire et enflamme le sol là où il atterrit, ce qui brûle les unités ennemies, qui subissent 26036 to 29213 points de dégâts de Feu toutes les 0.5 s. Dure 1 min."}
+MultiLanguageSpellData['fr'][98535] = {name = "Flammes bondissantes", additional_info = "Portée illimitée\nInstantanée\n[q]Fandral bondit sur un ennemi, laissant derrière lui un Esprit de la flamme. Il atterrit dans un brasier de gloire et enflamme le sol là où il atterrit, ce qui brûle les unités ennemies, qui subissent 30630 to 34368 points de dégâts de Feu toutes les 0.5 s. Dure 1 min."}
 MultiLanguageSpellData['fr'][98536] = {name = "See Quest Invis 1", additional_info = nil}
 MultiLanguageSpellData['fr'][98537] = {name = "See Quest Invis 2", additional_info = nil}
 MultiLanguageSpellData['fr'][98538] = {name = "See Quest Invis 10", additional_info = nil}
@@ -15199,7 +15198,7 @@ MultiLanguageSpellData['fr'][98580] = {name = "Reverse Cast Mirror Image", addit
 MultiLanguageSpellData['fr'][98581] = {name = "Aura d'image miroir", additional_info = nil}
 MultiLanguageSpellData['fr'][98582] = {name = "[q3]Jeune pterreurdactyle", additional_info = "3 s d'incantation 15\n[q]C’est un adorable bébé pterreurdactyle vert ! Heureusement, à son âge, ses hurlements soniques ne réduiront pas vos oreilles en bouillie sanguinolante et bien qu’il essaie de vous manger la tête, on dirait juste qu’il vous fait de petits bisous amicaux d’oiseau-lézard. Ohhhh !\n[q3]Jeune pterreurdactyle\nLié quand ramassé\n[q2]Utilise: Vous apprend à invoquer cette mascotte.\n[q2]Clic droit pour invoquer ou renvoyer votre jeune pterreurdactyle."}
 MultiLanguageSpellData['fr'][98583] = {name = "Orbe ardent", additional_info = nil}
-MultiLanguageSpellData['fr'][98584] = {name = "Orbe ardent", additional_info = "200 m de portée\nInstantanée\n[q]Inflige 7650 points de dégâts de Feu toutes les 2 s. Cumulable."}
+MultiLanguageSpellData['fr'][98584] = {name = "Orbe ardent", additional_info = "200 m de portée\nInstantanée\n[q]Inflige 9000 points de dégâts de Feu toutes les 2 s. Cumulable."}
 MultiLanguageSpellData['fr'][98585] = {name = "Puits aérifère", additional_info = "Instantanée\n[q]Les courants thermiques ascendants vous permettent de sauter beaucoup plus haut et plus loin que la normale."}
 MultiLanguageSpellData['fr'][98586] = {name = "Pulsation de puits aérifère", additional_info = "Instantanée\n[q]Les courants thermiques ascendants vous permettent de sauter beaucoup plus haut et plus loin que la normale."}
 MultiLanguageSpellData['fr'][98587] = {name = "Figurine vaudou", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer votre figurine vaudou."}
@@ -15224,7 +15223,7 @@ MultiLanguageSpellData['fr'][98614] = {name = "Protection de Tholo et Anren", ad
 MultiLanguageSpellData['fr'][98616] = {name = "Marquer l’emplacement", additional_info = nil}
 MultiLanguageSpellData['fr'][98618] = {name = "Jet de rets", additional_info = nil}
 MultiLanguageSpellData['fr'][98619] = {name = "Ailes de flamme", additional_info = "Instantanée\n[q]Des ailes de flammes poussent sur le lanceur, lui permettant de voler."}
-MultiLanguageSpellData['fr'][98620] = {name = "Graine incendiaire", additional_info = "Instantanée\n[q]Plante des graines incendiaires sur les ennemis du lanceur. Chaque graine pousse à une vitesse différente. Lorsque sa croissance est achevée, la graine explose, infligeant 63750 points de dégâts de Feu aux cibles à moins de 12 mètres."}
+MultiLanguageSpellData['fr'][98620] = {name = "Graine incendiaire", additional_info = "Instantanée\n[q]Plante des graines incendiaires sur les ennemis du lanceur. Chaque graine pousse à une vitesse différente. Lorsque sa croissance est achevée, la graine explose, infligeant 75000 points de dégâts de Feu aux cibles à moins de 12 mètres."}
 MultiLanguageSpellData['fr'][98623] = {name = "Fil de toile d’araignée", additional_info = nil}
 MultiLanguageSpellData['fr'][98624] = {name = "Ailes de flamme", additional_info = nil}
 MultiLanguageSpellData['fr'][98628] = {name = "Aiguillon à zoziau", additional_info = "40 m de portée\n4 s d'incantation\n[q]Jette une lance pointue sur un zoziau ennemi."}
@@ -15290,7 +15289,7 @@ MultiLanguageSpellData['fr'][98704] = {name = "Camera Beam Target", additional_i
 MultiLanguageSpellData['fr'][98705] = {name = "Goutte de flammes", additional_info = "30 m de portée\n1.5 s d'incantation\n[q]Crée un geyser de flammes à l'emplacement ciblé."}
 MultiLanguageSpellData['fr'][98706] = {name = "Frappe de Sulfuras", additional_info = nil}
 MultiLanguageSpellData['fr'][98707] = {name = "Ride Camera - Seat 3", additional_info = nil}
-MultiLanguageSpellData['fr'][98708] = {name = "Frappe de Sulfuras", additional_info = "Portée illimitée\nInstantanée\n[q]L’impact de Sulfuras inflige 536250 to 563750 points de dégâts de Feu aux ennemis à moins de 5 mètres."}
+MultiLanguageSpellData['fr'][98708] = {name = "Frappe de Sulfuras", additional_info = "Portée illimitée\nInstantanée\n[q]L’impact de Sulfuras inflige 102375 to 107625 points de dégâts de Feu aux ennemis à moins de 5 mètres."}
 MultiLanguageSpellData['fr'][98709] = {name = "Ride Camera - Seat 2", additional_info = nil}
 MultiLanguageSpellData['fr'][98710] = {name = "Frappe de Sulfuras", additional_info = "Portée illimitée\n2.5 s d'incantation\n[q]Ragnaros frappe Sulfuras au sol, causant un violent impact et projetant des vagues de lave depuis l’emplacement ciblé."}
 MultiLanguageSpellData['fr'][98711] = {name = "Boule de feu", additional_info = "40 m de portée\n1 s d'incantation\n[q]Inflige des dégâts de Feu à un ennemi."}
@@ -15483,10 +15482,10 @@ MultiLanguageSpellData['fr'][98923] = {name = "Ramasser Valstann", additional_in
 MultiLanguageSpellData['fr'][98924] = {name = "Poche d’œufs", additional_info = nil}
 MultiLanguageSpellData['fr'][98925] = {name = "Changement de mains", additional_info = nil}
 MultiLanguageSpellData['fr'][98926] = {name = "Tuer Valstann", additional_info = nil}
-MultiLanguageSpellData['fr'][98928] = {name = "Vague de lave", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 124312 to 130687 points de dégâts de Feu et 41437 to 43562 points de dégâts de Feu supplémentaires toutes les 1 s."}
+MultiLanguageSpellData['fr'][98928] = {name = "Vague de lave", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 146250 to 153750 points de dégâts de Feu et 48750 to 51250 points de dégâts de Feu supplémentaires toutes les 1 s."}
 MultiLanguageSpellData['fr'][98929] = {name = "Invisible", additional_info = nil}
 MultiLanguageSpellData['fr'][98932] = {name = "Libérez votre esprit", additional_info = "Instantanée\n[q]Vitesse de déplacement augmentée de 120% pendant 10 sec."}
-MultiLanguageSpellData['fr'][98934] = {name = "Braises incandescentes", additional_info = "150 m de portée\nInstantanée\n[q]Inflige 25858 to 30051 points de dégâts de Feu à tous les ennemis."}
+MultiLanguageSpellData['fr'][98934] = {name = "Braises incandescentes", additional_info = "150 m de portée\nInstantanée\n[q]Inflige 30421 to 35355 points de dégâts de Feu à tous les ennemis."}
 MultiLanguageSpellData['fr'][98935] = {name = "Invocation de Malfurion Hurlorage", additional_info = nil}
 MultiLanguageSpellData['fr'][98936] = {name = "HMC Dummy Effect Passenger 1", additional_info = nil}
 MultiLanguageSpellData['fr'][98937] = {name = "HMC Dummy Effect Passenger 2", additional_info = nil}
@@ -15650,7 +15649,7 @@ MultiLanguageSpellData['fr'][99122] = {name = "Mitraille ardente", additional_in
 MultiLanguageSpellData['fr'][99123] = {name = "Poigne de la mort", additional_info = "30 m de portée\nInstantanée\n[q]Maîtrise l'énergie impie qui entoure et lie toute matière, attirant la cible vers le chevalier de la mort et la forçant à l'attaquer pendant 3 sec."}
 MultiLanguageSpellData['fr'][99124] = {name = "Mitraille ardente", additional_info = nil}
 MultiLanguageSpellData['fr'][99125] = {name = "Chaleur flamboyante", additional_info = nil}
-MultiLanguageSpellData['fr'][99126] = {name = "Chaleur flamboyante", additional_info = "60 m de portée\nInstantanée\n[q]Le Scion de lave inflige Chaleur flamboyante à une cible aléatoire, créant un sillage de Chaleur flamboyante derrière elle. La Chaleur flamboyante inflige 58012 to 60987 points de dégâts de Feu toutes les 1 s et rend aux Fils de la flamme et aux Scions de lave 10% de leurs points de vie toutes les 1 s."}
+MultiLanguageSpellData['fr'][99126] = {name = "Chaleur flamboyante", additional_info = "60 m de portée\nInstantanée\n[q]Le Scion de lave inflige Chaleur flamboyante à une cible aléatoire, créant un sillage de Chaleur flamboyante derrière elle. La Chaleur flamboyante inflige 68250 to 71750 points de dégâts de Feu toutes les 1 s et rend aux Fils de la flamme et aux Scions de lave 10% de leurs points de vie toutes les 1 s."}
 MultiLanguageSpellData['fr'][99127] = {name = "Embuscade brûlante", additional_info = nil}
 MultiLanguageSpellData['fr'][99128] = {name = "Chaleur flamboyante", additional_info = nil}
 MultiLanguageSpellData['fr'][99129] = {name = "Chaleur flamboyante", additional_info = nil}
@@ -15665,7 +15664,7 @@ MultiLanguageSpellData['fr'][99140] = {name = "Strafe Bunny", additional_info = 
 MultiLanguageSpellData['fr'][99141] = {name = "Mitraille ardente", additional_info = nil}
 MultiLanguageSpellData['fr'][99142] = {name = "Crépuscule distordu", additional_info = "Portée illimitée\n1.5 s d'incantation\n[q]Inflige 40000 points de dégâts de Givre sur une ligne ainsi que 20000 points de dégâts de Feu toutes les 1 s pendant 5 sec."}
 MultiLanguageSpellData['fr'][99143] = {name = "Ficelle de ballon", additional_info = nil}
-MultiLanguageSpellData['fr'][99144] = {name = "Chaleur flamboyante", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 58012 to 60987 points de dégâts de Feu toutes les 1 s."}
+MultiLanguageSpellData['fr'][99144] = {name = "Chaleur flamboyante", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 68250 to 71750 points de dégâts de Feu toutes les 1 s."}
 MultiLanguageSpellData['fr'][99145] = {name = "Chaleur flamboyante", additional_info = "Portée illimitée\nInstantanée\n[q]La Chaleur flamboyante rend aux Scions en fusion ou aux Fils de la flamme 10% de leurs points de vie toutes les 1 s."}
 MultiLanguageSpellData['fr'][99146] = {name = "Brûlure météorique", additional_info = nil}
 MultiLanguageSpellData['fr'][99148] = {name = "Déflagration du Crépuscule", additional_info = "90 m de portée\n2.5 s d'incantation\n[q]Inflige des dégâts d'Ombre à un ennemi."}
@@ -15687,7 +15686,7 @@ MultiLanguageSpellData['fr'][99164] = {name = "Horde Balloon Signal to Orphan", 
 MultiLanguageSpellData['fr'][99165] = {name = "Invocation d’un ballon de l’Alliance", additional_info = "5 m de portée\n1 s d'incantation\n[q]Invoque un ballon vert."}
 MultiLanguageSpellData['fr'][99166] = {name = "Ballon de l’Alliance de l’orphelin", additional_info = "10 m de portée\n{Instantanée} {1 s de recharge}\n[q]Clic droit pour invoquer ou renvoyer votre ballon."}
 MultiLanguageSpellData['fr'][99167] = {name = "Alliance Balloon Signal to Orphan", additional_info = "10 m de portée\n{Instantanée} {1 s de recharge}\n[q]Clic droit pour invoquer ou renvoyer votre ballon."}
-MultiLanguageSpellData['fr'][99171] = {name = "Linceul de flammes", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros commence à incanter Linceul de flammes. Il baigne de flammes la zone la plus proche, celle du milieu ou celle la plus éloignée de lui, infligeant 74587 to 78412 points de dégâts de Feu toutes les 1 s pendant 1 sec."}
+MultiLanguageSpellData['fr'][99171] = {name = "Linceul de flammes", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros commence à incanter Linceul de flammes. Il baigne de flammes la zone la plus proche, celle du milieu ou celle la plus éloignée de lui, infligeant 87750 to 92250 points de dégâts de Feu toutes les 1 s pendant 1 sec."}
 MultiLanguageSpellData['fr'][99172] = {name = "Linceul de flammes", additional_info = "Portée illimitée\n2.5 s d'incantation\n[q]Ragnaros commence à engloutir la zone de la plateforme la plus proche de lui dans les flammes !"}
 MultiLanguageSpellData['fr'][99173] = {name = "Blessures brûlantes", additional_info = "Portée illimitée\nInstantanée\n[q]Vos coups critiques en mêlée infligent 6% de dégâts supplémentaires sous forme de dégâts de Feu en 4 sec."}
 MultiLanguageSpellData['fr'][99174] = {name = "Item - Rogue T12 2P Bonus", additional_info = "[q]Vos coups critiques en mêlée infligent 6% de dégâts supplémentaires sous forme de dégâts de Feu en 4 sec."}
@@ -15730,7 +15729,7 @@ MultiLanguageSpellData['fr'][99219] = {name = "Entoilage collant", additional_in
 MultiLanguageSpellData['fr'][99220] = {name = "Item - Warlock T12 2P Bonus", additional_info = "[q]Vos dégâts périodiques ont une chance d’invoquer un diablotin embrasé qui combat à vos côtés pendant 15 sec.\n(Chance d'occurence :5%, 45sec de recharge)"}
 MultiLanguageSpellData['fr'][99221] = {name = "Diablotin embrasé", additional_info = "Instantanée\n[q]Invoque un diablotin embrasé pour vous aider au combat."}
 MultiLanguageSpellData['fr'][99223] = {name = "Entoilage collant", additional_info = nil}
-MultiLanguageSpellData['fr'][99224] = {name = "Linceul de flammes", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 74587 to 78412 points de dégâts de Feu."}
+MultiLanguageSpellData['fr'][99224] = {name = "Linceul de flammes", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 87750 to 92250 points de dégâts de Feu."}
 MultiLanguageSpellData['fr'][99225] = {name = "Linceul de flammes", additional_info = nil}
 MultiLanguageSpellData['fr'][99226] = {name = "Flammes explosives", additional_info = "40 m de portée\n1.5 s d'incantation\n[q]Inflige 2751 to 4264 points de dégâts de Feu à une cible."}
 MultiLanguageSpellData['fr'][99227] = {name = "Summon Burnt Tree Controller", additional_info = "40 m de portée\nInstantanée\n[q]Quand le gland est planté, un arbre pousse et invoque un flagellant."}
@@ -15771,7 +15770,7 @@ MultiLanguageSpellData['fr'][99264] = {name = "Poche d’œufs", additional_info
 MultiLanguageSpellData['fr'][99265] = {name = "Rocher en fusion", additional_info = nil}
 MultiLanguageSpellData['fr'][99266] = {name = "Fissure de météore", additional_info = nil}
 MultiLanguageSpellData['fr'][99267] = {name = "Météore vivant", additional_info = nil}
-MultiLanguageSpellData['fr'][99268] = {name = "Météore vivant", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros invoque un Météore vivant qui roule vers les personnages-joueurs. S’il en atteint un, il crée un Impact de météore qui inflige 487500 to 512500 points de dégâts de Feu aux ennemis à moins de 8 mètres."}
+MultiLanguageSpellData['fr'][99268] = {name = "Météore vivant", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros invoque un Météore vivant qui roule vers les personnages-joueurs. S’il en atteint un, il crée un Impact de météore qui inflige 107250 to 112750 points de dégâts de Feu aux ennemis à moins de 8 mètres."}
 MultiLanguageSpellData['fr'][99269] = {name = "Météore vivant", additional_info = nil}
 MultiLanguageSpellData['fr'][99270] = {name = "Suicide", additional_info = nil}
 MultiLanguageSpellData['fr'][99273] = {name = "Traquenard", additional_info = nil}
@@ -15788,7 +15787,7 @@ MultiLanguageSpellData['fr'][99283] = {name = "Projectiles des Arcanes", additio
 MultiLanguageSpellData['fr'][99284] = {name = "Fixer", additional_info = "Portée illimitée\nInstantanée\n[q]Concentré sur une cible.\n Insensible aux provocations."}
 MultiLanguageSpellData['fr'][99285] = {name = "Disparition du requin", additional_info = nil}
 MultiLanguageSpellData['fr'][99286] = {name = "Flots de flammes froides", additional_info = "2 s d'incantation\n[q]Inflige des dégâts de Givre à tout ce qui se trouve sur son chemin."}
-MultiLanguageSpellData['fr'][99287] = {name = "Impact de météore", additional_info = "Portée illimitée\nInstantanée\n[q]L’impact du Météore vivant inflige 487500 to 512500 points de dégâts de Feu aux ennemis à moins de 8 mètres."}
+MultiLanguageSpellData['fr'][99287] = {name = "Impact de météore", additional_info = "Portée illimitée\nInstantanée\n[q]L’impact du Météore vivant inflige 107250 to 112750 points de dégâts de Feu aux ennemis à moins de 8 mètres."}
 MultiLanguageSpellData['fr'][99289] = {name = "Dynamiser", additional_info = "Instantanée\n[q]Points de focalisation rendus."}
 MultiLanguageSpellData['fr'][99290] = {name = "Proposer des gâteaux de riz bénis", additional_info = "10 m de portée\n2 s d'incantation\n[q]Offre des gâteaux de riz bénis au sanctuaire des Ancêtres, à Darnassus."}
 MultiLanguageSpellData['fr'][99292] = {name = "Ragefeu", additional_info = nil}
@@ -15804,7 +15803,7 @@ MultiLanguageSpellData['fr'][99303] = {name = "Combustion", additional_info = "P
 MultiLanguageSpellData['fr'][99304] = {name = "Consumer", additional_info = "10 m de portée\nCanalisée (1 s d'incantation)\n[q]En consumant une bête inférieure, cette unité inflige 20% de dégâts supplémentaires, augmente la vitesse de déplacement de 1%, et soigne la cible pour 20% de son maximum de points de vie."}
 MultiLanguageSpellData['fr'][99305] = {name = "Bien nourri", additional_info = "10 m de portée\nInstantanée\n[q]A mangé récemment et n’a pas faim."}
 MultiLanguageSpellData['fr'][99307] = {name = "Proposer des côtelettes", additional_info = "5 m de portée\nCanalisée\n[q]Offrez des côtelettes délicieuses à une sentinelle de Darnassus."}
-MultiLanguageSpellData['fr'][99308] = {name = "Blessure hémorragique", additional_info = "Allonge\nInstantanée\n[q]Fait saigner la cible, lui infligeant 5100 points de dégâts physiques toutes les 0.2 s pendant 1 min. L'effet est supprimé si la cible passe sous les 50% de points de vie."}
+MultiLanguageSpellData['fr'][99308] = {name = "Blessure hémorragique", additional_info = "Allonge\nInstantanée\n[q]Fait saigner la cible, lui infligeant 6000 points de dégâts physiques toutes les 0.2 s pendant 1 min. L'effet est supprimé si la cible passe sous les 50% de points de vie."}
 MultiLanguageSpellData['fr'][99309] = {name = "Cuisiner des côtes", additional_info = "10 m de portée\n1.5 s d'incantation\n[q]Cuisine des côtes au fourneau ou sur un feu de cuisine."}
 MultiLanguageSpellData['fr'][99312] = {name = "Invocation d’un élémentaire d’eau gelé", additional_info = nil}
 MultiLanguageSpellData['fr'][99314] = {name = "Piler le riz", additional_info = "5 m de portée\n2.5 s d'incantation\n[q]Pile le riz pour en faire de la farine."}
@@ -16067,7 +16066,7 @@ MultiLanguageSpellData['fr'][99645] = {name = "Timeless Eye Invisibility Detecti
 MultiLanguageSpellData['fr'][99646] = {name = "Bond téméraire", additional_info = "Portée illimitée\nInstantanée\n[q]Bondit sur un ennemi, inflige 42412 to 47587 points de dégâts de Feu et étourdit tout le monde dans une zone de taille réduite, y compris le lanceur de sorts."}
 MultiLanguageSpellData['fr'][99647] = {name = "Acide brûlant", additional_info = "20 m de portée\n{Instantanée} {2 s de recharge}\n[q]Inflige 32244 to 36179 points de dégâts de Feu à un ennemi."}
 MultiLanguageSpellData['fr'][99648] = {name = "Cancel See Invis", additional_info = nil}
-MultiLanguageSpellData['fr'][99649] = {name = "Flammes réactives", additional_info = "Portée illimitée\nInstantanée\n[q]Les attaques et sorts qui frappent le lanceur de sorts font jaillir du feu, infligeant 5000 points de dégâts de Feu à l’attaquant toutes les 1 s. Cumulable.\n(1sec de recharge)"}
+MultiLanguageSpellData['fr'][99649] = {name = "Flammes réactives", additional_info = "Portée illimitée\nInstantanée\n[q]Les attaques et sorts qui frappent le lanceur de sorts font jaillir du feu, infligeant 0 points de dégâts de Feu à l’attaquant toutes les 5 s. Cumulable.\n(1sec de recharge)"}
 MultiLanguageSpellData['fr'][99650] = {name = "Flammes réactives", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 5000 points de dégâts de Feu toutes les 1 s."}
 MultiLanguageSpellData['fr'][99652] = {name = "[q4]Brise-cervelle", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nVrai-or (8), Rubis du feu d'enfer (2), Barre d'élémentium durci (3), Orbe du chaos (5)\n[q4]Brise-cervelle\nLié quand équipé\nÀ une main Dague\nDégâts : 616 - 1,144 Vitesse 1.80\n(488.89 dégâts par seconde)\n+155 Agilité\n+232 Endurance\nDurabilité 75 / 75\n85 requis\n[q2]Équipé : Augmente de 103 le score de toucher.\n[q2]Équipé : Augmente de 103 le score de hâte."}
 MultiLanguageSpellData['fr'][99653] = {name = "[q4]Sorcelame en élémentium ouvragé", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nVrai-or (8), Saphir océan , Jaspe (2), Barre d'élémentium durci , Orbe du chaos (5)\n[q4]Sorcelame en élémentium ouvragé\nLié quand équipé\nMain droite Dague\nDégâts : 479 - 890 Vitesse 1.40\n(488.93 dégâts par seconde)\n+232 Endurance\n+155 Intelligence\nDurabilité 75 / 75\n85 requis\n[q2]Équipé : Augmente de 103 le score de coup critique.\n[q2]Équipé : Augmente de 103 le score de toucher.\n[q2]Équipé : Augmente de 2.066 la puissance des sorts."}
@@ -16203,7 +16202,7 @@ MultiLanguageSpellData['fr'][99827] = {name = "Charge du berserker", additional_
 MultiLanguageSpellData['fr'][99828] = {name = "Pied marin", additional_info = "Instantanée\n[q]Permet de respirer sous l'eau et augmente la vitesse de déplacement au fond de l'eau de 119% tant que vous êtes à Vashj'ir."}
 MultiLanguageSpellData['fr'][99829] = {name = "Crachat de magma", additional_info = "90 m de portée\n0.5 s d'incantation\n[q]Inflige 3400 to 4600 points de dégâts à un ennemi qui prend feu et subit 4000 points de dégâts de Feu supplémentaires toutes les 3 s. Explose si on le retire."}
 MultiLanguageSpellData['fr'][99830] = {name = "Cassure des flammes", additional_info = "{Instantanée} {5 s de recharge}\n[q]Inflige 5087 to 5912 points de dégâts de Feu aux ennemis proches et les fait tomber à la renverse."}
-MultiLanguageSpellData['fr'][99832] = {name = "Déchirure de membre", additional_info = "Allonge\nInstantanée\n[q]Le chien de l’enfer déchiquette sauvagement la chair nue d’un ennemi, infligeant 130% des points de dégâts normaux et provoquant une plaie hémorragique qui inflige 6800 points de dégâts par application, toutes les 3 s pendant 30 sec."}
+MultiLanguageSpellData['fr'][99832] = {name = "Déchirure de membre", additional_info = "Allonge\nInstantanée\n[q]Le chien de l’enfer déchiquette sauvagement la chair nue d’un ennemi, infligeant 130% des points de dégâts normaux et provoquant une plaie hémorragique qui inflige 8000 points de dégâts par application, toutes les 3 s pendant 30 sec."}
 MultiLanguageSpellData['fr'][99835] = {name = "Anxiété de la séparation", additional_info = "Instantanée\n[q]Quand la distance entre le chasseur et ses familiers devient trop grande, ils deviennent tous deux extrêmement agités, ce qui augmente leurs dégâts et leur puissance d’attaque de 100%."}
 MultiLanguageSpellData['fr'][99836] = {name = "Lancer le piège de prison de cristal", additional_info = "100 m de portée\n{Instantanée} {7 s de recharge}\n[q]Lance un piège qui enferme celui qui le déclenche dans du cristal solide."}
 MultiLanguageSpellData['fr'][99837] = {name = "Effet de piège de prison de cristal", additional_info = "50 m de portée\nInstantanée\n[q]Piège la cible dans un cristal."}
@@ -16211,9 +16210,9 @@ MultiLanguageSpellData['fr'][99838] = {name = "Piège d'immolation", additional_
 MultiLanguageSpellData['fr'][99839] = {name = "Lancer de piège d’immolation", additional_info = "100 m de portée\n{Instantanée} {7 s de recharge}\n[q]Lance un piège qui recouvre celui qui le déclenche de flammes, lui infligeant des dégâts de Feu et augmentant les dégâts subis."}
 MultiLanguageSpellData['fr'][99840] = {name = "Rupture de magma", additional_info = "45 m de portée\n1.5 s d'incantation\n[q]Crée une énorme explosion de magma, qui inflige 40375 to 44625 points de dégâts de Feu à tous les ennemis à proximité, augmentant les dégâts de Feu subis de 40% pendant 1 min, et déclenchant des éruptions de magma."}
 MultiLanguageSpellData['fr'][99841] = {name = "Rupture de magma", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige des dégâts aux ennemis pris dans l'explosion."}
-MultiLanguageSpellData['fr'][99842] = {name = "Rupture de magma", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 100937 to 111562 points de dégâts de Feu aux ennemis pris dans l’explosion."}
+MultiLanguageSpellData['fr'][99842] = {name = "Rupture de magma", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 118750 to 131250 points de dégâts de Feu aux ennemis pris dans l’explosion."}
 MultiLanguageSpellData['fr'][99843] = {name = "Griffes flamboyantes", additional_info = nil}
-MultiLanguageSpellData['fr'][99844] = {name = "Griffes flamboyantes", additional_info = "30 m de portée\nInstantanée\n[q]Griffe l’ennemi avec des serres flamboyantes, inflige 115625 to 134375 points de dégâts physiques et augmente les dégâts subis par les attaques physiques et de Feu de 10% pendant 15 sec."}
+MultiLanguageSpellData['fr'][99844] = {name = "Griffes flamboyantes", additional_info = "30 m de portée\nInstantanée\n[q]Griffe l’ennemi avec des serres flamboyantes, inflige 138750 to 161250 points de dégâts physiques et augmente les dégâts subis par les attaques physiques et de Feu de 10% pendant 15 sec."}
 MultiLanguageSpellData['fr'][99845] = {name = "Immoler", additional_info = "Instantanée\n[q]Inflige 7000 to 9000 points de dégâts de Feu à tous les ennemis."}
 MultiLanguageSpellData['fr'][99846] = {name = "Immoler", additional_info = "Instantanée\n[q]Inflige des dégâts de Feu toutes les secondes aux ennemis proches."}
 MultiLanguageSpellData['fr'][99847] = {name = "Tir de rets", additional_info = "30 m de portée\nInstantanée\n[q]Inflige 1500 points de dégâts de Nature et réduit la vitesse de déplacement de 0%. Dure 5 s."}
@@ -16271,9 +16270,9 @@ MultiLanguageSpellData['fr'][99928] = {name = "Appel d'éclair", additional_info
 MultiLanguageSpellData['fr'][99931] = {name = "Entaille tranchante", additional_info = "Allonge\nInstantanée\n[q]Inflige 125% de dégâts de l’arme aux ennemis se trouvant devant le lanceur et inflige une Déchiqueture à sa cible principale."}
 MultiLanguageSpellData['fr'][99932] = {name = "Annuler aura Ailes de flamme", additional_info = nil}
 MultiLanguageSpellData['fr'][99933] = {name = "Molten Feather Aura Multi-Cancel", additional_info = nil}
-MultiLanguageSpellData['fr'][99934] = {name = "Acide brûlant", additional_info = "80 m de portée\n{Instantanée} {2 s de recharge}\n[q]Inflige 26347 to 29561 points de dégâts de Feu à un ennemi."}
-MultiLanguageSpellData['fr'][99936] = {name = "Déchiqueture", additional_info = "Instantanée\n[q]Inflige 6800 points de dégâts toutes les 3 s pendant 30 sec. Cumulable."}
-MultiLanguageSpellData['fr'][99937] = {name = "Déchiqueture", additional_info = "Instantanée\n[q]Inflige 6800 points de dégâts toutes les 3 s pendant 30 sec. Cumulable."}
+MultiLanguageSpellData['fr'][99934] = {name = "Acide brûlant", additional_info = "80 m de portée\n{Instantanée} {2 s de recharge}\n[q]Inflige 43240 to 48760 points de dégâts de Feu à un ennemi."}
+MultiLanguageSpellData['fr'][99936] = {name = "Déchiqueture", additional_info = "Instantanée\n[q]Inflige 8000 points de dégâts toutes les 3 s pendant 30 sec. Cumulable."}
+MultiLanguageSpellData['fr'][99937] = {name = "Déchiqueture", additional_info = "Instantanée\n[q]Inflige 8000 points de dégâts toutes les 3 s pendant 30 sec. Cumulable."}
 MultiLanguageSpellData['fr'][99938] = {name = "Impact du tronc", additional_info = "40 m de portée\nInstantanée\n[q]Inflige des dégâts physiques aux ennemis à proximité du point d’impact du tronc."}
 MultiLanguageSpellData['fr'][99939] = {name = "Carbonisation", additional_info = "Mana : 150\nCanalisée (10 s d'incantation)\n[q]Projette de la pierre en fusion dans toutes les directions."}
 MultiLanguageSpellData['fr'][99940] = {name = "Carbonisation", additional_info = nil}
@@ -16321,7 +16320,7 @@ MultiLanguageSpellData['fr'][99997] = {name = "Aura fumante", additional_info = 
 MultiLanguageSpellData['fr'][99998] = {name = "Feu de terre", additional_info = "2 s d'incantation\n[q]Enflamme la zone qui entoure le lanceur de sorts. Il inflige des dégâts de Feu à tous les ennemis proches toutes les 1.5 s. Dure 6 sec."}
 MultiLanguageSpellData['fr'][99999] = {name = "Fixer", additional_info = nil}
 MultiLanguageSpellData['fr'][100000] = {name = "Comme si vous pouviez gagner à ce jeu", additional_info = "Mana : 100000\n{Instantanée} {1.157 jours de recharge}\n[q]Quand tous vos efforts ne servent à rien, je joue ce petit air pour vous.\n(1.157j de recharge)"}
-MultiLanguageSpellData['fr'][100002] = {name = "Jeter la lance", additional_info = "200 m de portée\n2 s d'incantation\n[q]Jette une lance qui inflige 99450 to 104550 points de dégâts physiques et déclenche un déluge de feu."}
+MultiLanguageSpellData['fr'][100002] = {name = "Jeter la lance", additional_info = "200 m de portée\n2 s d'incantation\n[q]Jette une lance qui inflige 117000 to 123000 points de dégâts physiques et déclenche un déluge de feu."}
 MultiLanguageSpellData['fr'][100003] = {name = "Rupture de magma", additional_info = "45 m de portée\nInstantanée\n[q]Invoque des éruptions de magma qui infligent des dégâts aux ennemis proches."}
 MultiLanguageSpellData['fr'][100004] = {name = "Elemental Bonds (Deepholm): Thrall Explosion", additional_info = nil}
 MultiLanguageSpellData['fr'][100005] = {name = "Visuel de lance", additional_info = nil}
@@ -16341,7 +16340,7 @@ MultiLanguageSpellData['fr'][100020] = {name = "Morsure de Groopy", additional_i
 MultiLanguageSpellData['fr'][100021] = {name = "Aura de bersek d’Alysrazor", additional_info = nil}
 MultiLanguageSpellData['fr'][100022] = {name = "Aura de bersek d’Alysrazor 2", additional_info = nil}
 MultiLanguageSpellData['fr'][100023] = {name = "Imprinted Cancel", additional_info = nil}
-MultiLanguageSpellData['fr'][100024] = {name = "Blessure hémorragique", additional_info = "Allonge\nInstantanée\n[q]Fait saigner la cible, lui infligeant 5100 points de dégâts physiques toutes les 0.2 s pendant 1 min. L'effet est supprimé si la cible passe sous les 50% de points de vie."}
+MultiLanguageSpellData['fr'][100024] = {name = "Blessure hémorragique", additional_info = "Allonge\nInstantanée\n[q]Fait saigner la cible, lui infligeant 6000 points de dégâts physiques toutes les 0.2 s pendant 1 min. L'effet est supprimé si la cible passe sous les 50% de points de vie."}
 MultiLanguageSpellData['fr'][100025] = {name = "Le déclin du Crépuscule", additional_info = nil}
 MultiLanguageSpellData['fr'][100026] = {name = "Récupérer une lance", additional_info = nil}
 MultiLanguageSpellData['fr'][100027] = {name = "Téléportation vers Fossoyeuse", additional_info = nil}
@@ -16435,7 +16434,7 @@ MultiLanguageSpellData['fr'][100166] = {name = "Tourment ardent", additional_inf
 MultiLanguageSpellData['fr'][100167] = {name = "Prudence", additional_info = "Instantanée\n[q]Le chien est tombé dans un piège, il sera plus prudent pendant un moment."}
 MultiLanguageSpellData['fr'][100168] = {name = "Elemental Bonds (Deepholm): Summon Therazane Controller", additional_info = nil}
 MultiLanguageSpellData['fr'][100169] = {name = "Essence de Tarecgosa", additional_info = "Canalisée (40 s d'incantation)"}
-MultiLanguageSpellData['fr'][100171] = {name = "Monde en flammes", additional_info = "Portée illimitée\nCanalisée (9 s d'incantation)\n[q]Ragnaros commence à incanter Linceul de flammes. Il baigne de flammes la zone la plus proche, celle du milieu ou celle la plus éloignée de lui toutes les 2 s, infligeant 74587 to 78412 points de dégâts de Feu."}
+MultiLanguageSpellData['fr'][100171] = {name = "Monde en flammes", additional_info = "Portée illimitée\nCanalisée (9 s d'incantation)\n[q]Ragnaros commence à incanter Linceul de flammes. Il baigne de flammes la zone la plus proche, celle du milieu ou celle la plus éloignée de lui toutes les 2 s, infligeant 87750 to 92250 points de dégâts de Feu."}
 MultiLanguageSpellData['fr'][100191] = {name = "Sillage des flammes", additional_info = "100 m de portée\nInstantanée\n[q]Inflige des dégâts de Feu à tous les ennemis à proximité."}
 MultiLanguageSpellData['fr'][100192] = {name = "Déflagration", additional_info = "3 s d'incantation\n[q]Une déflagration ardente inflige des dégâts de Feu aux ennemis proches."}
 MultiLanguageSpellData['fr'][100193] = {name = "Déflagration", additional_info = "2 m de portée\nInstantanée\n[q]Inflige des dégâts de Feu aux ennemis proches."}
@@ -16584,7 +16583,7 @@ MultiLanguageSpellData['fr'][100455] = {name = "Sulfuras", additional_info = "Po
 MultiLanguageSpellData['fr'][100456] = {name = "Sulfuras", additional_info = nil}
 MultiLanguageSpellData['fr'][100457] = {name = "Mesure disciplinaire", additional_info = "Instantanée\n[q]Vitesse d’attaque augmentée de 50%.\n Dégâts augmentés de 50%."}
 MultiLanguageSpellData['fr'][100459] = {name = "Chaleur flamboyante", additional_info = nil}
-MultiLanguageSpellData['fr'][100460] = {name = "Chaleur flamboyante", additional_info = "1000 m de portée\nInstantanée\n[q]Le Scion de lave inflige Chaleur flamboyante à une cible aléatoire, créant un sillage de Chaleur flamboyante derrière elle. La Chaleur flamboyante inflige 58012 to 60987 points de dégâts de Feu toutes les 1 s et rend aux Fils de la flamme et aux Scions de lave 10% de leurs points de vie toutes les 1 s."}
+MultiLanguageSpellData['fr'][100460] = {name = "Chaleur flamboyante", additional_info = "1000 m de portée\nInstantanée\n[q]Le Scion de lave inflige Chaleur flamboyante à une cible aléatoire, créant un sillage de Chaleur flamboyante derrière elle. La Chaleur flamboyante inflige 68250 to 71750 points de dégâts de Feu toutes les 1 s et rend aux Fils de la flamme et aux Scions de lave 10% de leurs points de vie toutes les 1 s."}
 MultiLanguageSpellData['fr'][100462] = {name = "Aggro au plus proche", additional_info = nil}
 MultiLanguageSpellData['fr'][100463] = {name = "Focalisateur en pyrocoque déchargé", additional_info = "3 s d'incantation\nComposants:\nFragment de pyrocoque (2)\n[q]Combinez 3 Fragments de pyrocoque pour créer un Focalisateur en pyrocoque déchargé."}
 MultiLanguageSpellData['fr'][100464] = {name = "Focalisateur en rhyolite déchargé", additional_info = "3 s d'incantation\nComposants:\nFragment de rhyolite (2)\n[q]Combinez 3 Fragments de rhyolite pour créer un Focalisateur en rhyolite déchargé."}
@@ -20411,7 +20410,7 @@ MultiLanguageSpellData['fr'][448366] = {name = "Ville surchargée !", additiona
 MultiLanguageSpellData['fr'][448591] = {name = "Ville surchargée", additional_info = nil}
 MultiLanguageSpellData['fr'][448790] = {name = "Summon Town Trigger", additional_info = nil}
 MultiLanguageSpellData['fr'][449334] = {name = "Nettoyage de jouet", additional_info = nil}
-MultiLanguageSpellData['fr'][450535] = {name = "Volette", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer Volette."}
+MultiLanguageSpellData['fr'][450535] = {name = "Piqueuse", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer Piqueuse."}
 MultiLanguageSpellData['fr'][450759] = {name = "Revitaliser", additional_info = "{100% de la mana de base} {100 m de portée}\n10 s d'incantation\n[q]Ramène à la vie les membres du groupe ou raid morts avec 35 % de points de vie et 35 % de mana. Ne peut être lancé en combat, sur un champ de bataille ou en arène."}
 MultiLanguageSpellData['fr'][450761] = {name = "Absolution", additional_info = "{100% de la mana de base} {100 m de portée}\n10 s d'incantation\n[q]Ramène à la vie les membres du groupe ou raid morts avec 35 % de points de vie et 35 % de mana. Ne peut être lancé en combat, sur un champ de bataille ou en arène."}
 MultiLanguageSpellData['fr'][450762] = {name = "Vision ancestrale", additional_info = "{100% de la mana de base} {100 m de portée}\n10 s d'incantation\n[q]Ramène à la vie les membres du groupe ou raid morts avec 35 % de points de vie et 35 % de mana. Ne peut être lancé en combat, sur un champ de bataille ou en arène."}
@@ -20454,3 +20453,4 @@ MultiLanguageSpellData['fr'][470574] = {name = "Protocol Inferno", additional_in
 MultiLanguageSpellData['fr'][470575] = {name = "Protocol Inferno", additional_info = nil}
 MultiLanguageSpellData['fr'][470595] = {name = "Fury of the Firelord", additional_info = nil}
 MultiLanguageSpellData['fr'][470597] = {name = "Protocol Inferno", additional_info = "Portée illimitée\n{Instantanée} {1 min de recharge}"}
+MultiLanguageSpellData['fr'][473053] = {name = "Gushing Wound", additional_info = "Allonge\nInstantanée\n[q]Causes the target to bleed for 6000 Physical damage every 0.2 sec. for 1 min. This effect is removed if the target falls below 50% health."}
