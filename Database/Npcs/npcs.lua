@@ -1,4 +1,3 @@
-
 MultiLanguageNpcData['fr'] = {}
 MultiLanguageNpcData['fr'][3] = {name = "Dévoreur", subname = nil}
 MultiLanguageNpcData['fr'][6] = {name = "Vermine kobold", subname = nil}
@@ -35791,3 +35790,5 @@ MultiLanguageNpcData['fr'][224065] = {name = "Volette", subname = nil}
 MultiLanguageNpcData['fr'][225965] = {name = "Frix Xizzix", subname = "Bloodthirsty PvP Gear Vendor"}
 MultiLanguageNpcData['fr'][226201] = {name = "Peletort", subname = "Ami du donjon"}
 MultiLanguageNpcData['fr'][228792] = {name = "Magmaw Spike Stalker", subname = nil}
+MultiLanguageNpcData['fr'][232527] = {name = "Reven", subname = nil}
+MultiLanguageNpcData['fr'][232984] = {name = "Frontaure en fusion", subname = "Fournitures du front du Magma"}
