@@ -3,7 +3,7 @@
 RELEASE_NAME="$1"
 RELEASE_MESSAGE="$2"
 GAME_VERSIONS=[11926]
-FILE_PATH="./MultiLanguage_RU.zip"
+FILE_PATH="./MultiLanguage_FR.zip"
 
 CF_METADATA=$(cat <<-EOF
 {
@@ -22,7 +22,7 @@ response=$(curl -sS \
     -H "X-API-TOKEN: $CF_API_TOKEN" \
     -F "metadata=$CF_METADATA" \
     -F "file=@$FILE_PATH" \
-    "https://wow.curseforge.com/api/projects/1004877/upload-file")
+    "https://wow.curseforge.com/api/projects/1002600/upload-file")
 
 http_status=$(echo "$response" | tail -n1)
 
