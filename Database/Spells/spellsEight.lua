@@ -1,3 +1,4 @@
+MultiLanguageSpellData['fr'][464582] = {name = "Déchiqueteur de vagues gobelin inconstant", additional_info = "5 m de portée\nInstantanée\n[q]Invoque et renvoie un déchiqueteur de vagues gobelin."}
 MultiLanguageSpellData['fr'][464587] = {name = "Recharger", additional_info = "100 m de portée\n1 s d'incantation\n[q]Recharge une arme à distance."}
 MultiLanguageSpellData['fr'][464590] = {name = "Tissu de Sombrelune", additional_info = "0.1 s d'incantation\n[q]La transcription d’une carte de Sombrelune de Khaz Algar a 0 % de chances d’en créer une autre.\n\n [ L’effet quand équipé nécessite : calligraphie de Khaz Algar 1 ][ L’effet quand équipé nécessite : calligraphie de Khaz Algar 1 ]"}
 MultiLanguageSpellData['fr'][464593] = {name = "Soie saisissante", additional_info = nil}
@@ -891,8 +892,10 @@ MultiLanguageSpellData['fr'][468159] = {name = "Eau sombre", additional_info = "
 MultiLanguageSpellData['fr'][468162] = {name = "Hache de léviathan", additional_info = "Allonge\n2 s d'incantation\n[q]Le lanceur ou la lanceuse renforce son arme pour infliger Eau sombre avec les coups en mêlée pendant 6 sec."}
 MultiLanguageSpellData['fr'][468179] = {name = "Coup de pied du vent impétueux", additional_info = "Instantanée\n[q]Provoque une puissante bourrasque de vent, infligeant (359.5% of Attack power) point de dégâts de nature aux adversaires dans un cône de 25 m devant vous, répartis équitablement entre eux. Les dégâts sont augmentés de 6 % pour chaque cible touchée, jusqu’à un maximum de 30 %.\n\n Accorde Vents impétueux pendant 4 sec, ce qui augmente les soins de Brume de rénovation de 100 %."}
 MultiLanguageSpellData['fr'][468186] = {name = "Reven", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer Reven."}
+MultiLanguageSpellData['fr'][468205] = {name = "Serpent céleste en bois", additional_info = "1.5 s d'incantation\n[q]Invoque et renvoie cette monture.\n[q]\"Une œuvre d’art vivante et volante.\"\nBoutique en jeu"}
 MultiLanguageSpellData['fr'][468219] = {name = "Proie de chasse", additional_info = "Instantanée\n[q]Tir mortel frappe 1 cible supplémentaire et inflige 10 % de dégâts en plus pour chacun de vos familiers actifs. Cumulable jusqu’à 5 fois."}
 MultiLanguageSpellData['fr'][468226] = {name = "Conduit de foudre", additional_info = "Instantanée\n[q]Vous avez une chance de vous faire frapper par la foudre, ce qui augmente votre vitesse de déplacement de 50 % pendant 5 sec. L’efficacité est portée à 100 % en extérieur.\n\n Vous déclenchez Orage lorsque vous vous réincarnez."}
+MultiLanguageSpellData['fr'][468228] = {name = "Serpenteau céleste en bois", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer cette mascotte."}
 MultiLanguageSpellData['fr'][468231] = {name = "Afflux englouti", additional_info = "100 m de portée\nInstantanée\n[q]Un vortex tourne autour de la position du lanceur ou de la lanceuse et inflige Eau sombre aux adversaires qu’il touche."}
 MultiLanguageSpellData['fr'][468232] = {name = "Afflux englouti", additional_info = "2 s d'incantation\n[q]Un vortex tourne autour de la position du lanceur ou de la lanceuse et inflige Eau sombre aux adversaires qu’il touche."}
 MultiLanguageSpellData['fr'][468246] = {name = "Suralimenter", additional_info = "200 m de portée\nInstantanée\n[q]Lorsqu’un golem est détruit, les golems restants infligent 25 % de dégâts supplémentaires jusqu’à la fin du combat. Cet effet est cumulable."}
@@ -1785,7 +1788,7 @@ MultiLanguageSpellData['fr'][472337] = {name = "Orbe de courbevague sombreflux",
 MultiLanguageSpellData['fr'][472353] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472360] = {name = "Lanterne de Vrykul égaré", additional_info = "Instantanée\n[q]Le lancement d’une technique de classe à temps de recharge majeure vous imprègne de la férocité des esprits vrykuls, ce qui vous confère un bonus de 171 au score de Coup critique pendant 8 sec.\n\n La durée de cet effet est augmentée d’un maximum de 40 s selon le temps écoulé depuis votre dernière imprégnation."}
 MultiLanguageSpellData['fr'][472370] = {name = "Explosion de rocher", additional_info = nil}
-MultiLanguageSpellData['fr'][472390] = {name = "Barrage céleste", additional_info = "{Canalisée (2 s d'incantation} {) 16 s de recharge}\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n16 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
+MultiLanguageSpellData['fr'][472390] = {name = "Barrage céleste", additional_info = "Canalisée (2 s d'incantation)\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n16 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
 MultiLanguageSpellData['fr'][472391] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472392] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472393] = {name = "Barrage céleste", additional_info = nil}
@@ -1798,8 +1801,8 @@ MultiLanguageSpellData['fr'][472399] = {name = "Barrage céleste", additional_in
 MultiLanguageSpellData['fr'][472400] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472401] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472402] = {name = "Barrage céleste", additional_info = nil}
-MultiLanguageSpellData['fr'][472403] = {name = "Barrage céleste", additional_info = "{Canalisée (2 s d'incantation} {) 14 s de recharge}\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n14 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
-MultiLanguageSpellData['fr'][472406] = {name = "Barrage céleste", additional_info = "{Canalisée (2 s d'incantation} {) 12 s de recharge}\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n12 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
+MultiLanguageSpellData['fr'][472403] = {name = "Barrage céleste", additional_info = "Canalisée (2 s d'incantation)\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n14 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
+MultiLanguageSpellData['fr'][472406] = {name = "Barrage céleste", additional_info = "Canalisée (2 s d'incantation)\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n12 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
 MultiLanguageSpellData['fr'][472407] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472408] = {name = "Barrage céleste", additional_info = nil}
 MultiLanguageSpellData['fr'][472409] = {name = "Barrage céleste", additional_info = nil}
@@ -1835,7 +1838,7 @@ MultiLanguageSpellData['fr'][472651] = {name = "Aura d’immolation", additional
 MultiLanguageSpellData['fr'][472696] = {name = "Déchirure du Vide", additional_info = "{Instantanée} {18 s de recharge}\n[q]– Repositionnement\n– Action de relance\n– Ralentit\n\n18 s de recharge\n Ouvre une déchirure vers le Vide et place une marque. La relance de Déchirure du Vide fait retourner instantanément à la marque en blessant et en ralentissant les adversaires.\n\n Peut être lancé pendant une incantation."}
 MultiLanguageSpellData['fr'][472701] = {name = "Auxiliaire", additional_info = nil}
 MultiLanguageSpellData['fr'][472704] = {name = "Réalité déchirée", additional_info = "{Instantanée} {1 s de recharge}\n[q]– Repositionnement\n– Action de relance\n– Ralentit\n\n18 s de recharge\n Ouvre une déchirure vers le Vide et place une marque. La relance de Déchirure du Vide fait retourner instantanément à la marque en blessant et en ralentissant les adversaires.\n\n Peut être lancé pendant une incantation."}
-MultiLanguageSpellData['fr'][472725] = {name = "Papillote", additional_info = "Instantanée\n[q]Find someone to help pull open the cracker. One participant will receive a surprise."}
+MultiLanguageSpellData['fr'][472725] = {name = "Papillote", additional_info = "Instantanée\n[q]Trouvez un individu avec qui tirer pour ouvrir la papillote. Lui ou vous recevrez une surprise."}
 MultiLanguageSpellData['fr'][472726] = {name = "Déchirure du Vide", additional_info = nil}
 MultiLanguageSpellData['fr'][472730] = {name = "Interagir", additional_info = nil}
 MultiLanguageSpellData['fr'][472738] = {name = "Tirer sur la papillote", additional_info = nil}
@@ -2051,7 +2054,7 @@ MultiLanguageSpellData['fr'][474653] = {name = "Utilitaire : Appel de Pluméole
 MultiLanguageSpellData['fr'][474658] = {name = "Lumière lunaire sombre", additional_info = "Portée illimitée\nInstantanée\n[q]La Lumière lunaire sombre réduit la vitesse d’incantation des sorts de 50 %."}
 MultiLanguageSpellData['fr'][474672] = {name = "Prise de notes", additional_info = "Canalisée\n[q]Prend des notes pendant que Vargus et Angorla réparent l’éclat fracturé."}
 MultiLanguageSpellData['fr'][474679] = {name = "Réanimateur de rochers", additional_info = "Instantanée\n[q]Déchaîne l’énergie résiduelle des cailloux et pierres sans repos proches pour qu’ils vous aident un bref instant au combat."}
-MultiLanguageSpellData['fr'][474688] = {name = "Déblocage de ronchonus", additional_info = "3 s d'incantation\n[q]Allows you to summon Grumplings using the Box of Puntables toy.\n [ Already known ]"}
+MultiLanguageSpellData['fr'][474688] = {name = "Déblocage de ronchonus", additional_info = "3 s d'incantation\n[q]Permet d’invoquer des ronchonus avec la boîte de jouets à botter.\n [ Déjà connu ]"}
 MultiLanguageSpellData['fr'][474690] = {name = "Invocation de ronchonus", additional_info = "Instantanée\n[q]Invoque des ronchonus."}
 MultiLanguageSpellData['fr'][474691] = {name = "Invocation de ronchonus", additional_info = "Canalisée (5 s d'incantation)\n[q]Invoque un canard enragé pour aider le lanceur ou la lanceuse au combat."}
 MultiLanguageSpellData['fr'][474698] = {name = "Reforger", additional_info = "Canalisée (0 s d'incantation)\n[q]Vous exploitez l’énergie de la forge pour réparer la surface fracturée de l’éclat."}
@@ -2201,6 +2204,7 @@ MultiLanguageSpellData['fr'][1216089] = {name = "Remonter", additional_info = ni
 MultiLanguageSpellData['fr'][1216189] = {name = "Ouverture", additional_info = nil}
 MultiLanguageSpellData['fr'][1216229] = {name = "Départ de Tol Dagor", additional_info = nil}
 MultiLanguageSpellData['fr'][1216418] = {name = "Propulseur personnel expérimental", additional_info = "100 m de portée\nInstantanée\n[q]Vous plongez vers l’emplacement ciblé."}
+MultiLanguageSpellData['fr'][1216542] = {name = "Faucon de feu royal flamboyant", additional_info = "1.5 s d'incantation\n[q]Invoque et renvoie un faucon de feu royal flamboyant. Cette monture peut voler.\n[q]\"Seules les âmes les plus passionnées, seuls les cœurs les plus féroces peuvent chevaucher le faucon de feu royal flamboyant.\"\nPromotion"}
 MultiLanguageSpellData['fr'][1216696] = {name = "Portail : Gala des cadeaux… ?", additional_info = "Instantanée\n[q]Téléporte le lanceur ou la lanceuse à Hurlevent."}
 MultiLanguageSpellData['fr'][1216697] = {name = "Portail : Gala des cadeaux… ?", additional_info = "Instantanée\n[q]Téléporte le lanceur ou la lanceuse au Gala des cadeaux."}
 MultiLanguageSpellData['fr'][1216746] = {name = "Surprise de la boîte à butin de Landro", additional_info = nil}
@@ -2225,3 +2229,9 @@ MultiLanguageSpellData['fr'][1218030] = {name = "Coffret de mathurin", additiona
 MultiLanguageSpellData['fr'][1218099] = {name = "Bloqueur", additional_info = nil}
 MultiLanguageSpellData['fr'][1218100] = {name = "Bloqueur", additional_info = nil}
 MultiLanguageSpellData['fr'][1218101] = {name = "Bloqueur", additional_info = nil}
+MultiLanguageSpellData['fr'][1218374] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['fr'][1218980] = {name = "Ejection du passager 1", additional_info = nil}
+MultiLanguageSpellData['fr'][1218981] = {name = "Charge de bouclier", additional_info = "10 - 40 m de portée\n{Instantanée} {5 s de recharge}\n[q]Réduit les dégâts subis de 240 %.\n\n Augmente la vitesse de déplacement de 240 % pendant until canceled et repousse les adversaires proches que vous percutez."}
+MultiLanguageSpellData['fr'][1220498] = {name = "Téléportation avec erreur", additional_info = "5 s d'incantation\n[q]Vous téléporte exactement où vous voulez aller… si vous n'êtes pas trop regardant."}
+MultiLanguageSpellData['fr'][1221338] = {name = "Coup de pied à la balle", additional_info = "40 m de portée\n{Instantanée} {5 s de recharge}\n[q]Envoyez la balle à un joueur allié. Si c’est possible, il la renverra automatiquement."}
+MultiLanguageSpellData['fr'][1221476] = {name = "Tracking Quest", additional_info = nil}
