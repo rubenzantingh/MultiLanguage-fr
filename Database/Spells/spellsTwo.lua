@@ -758,7 +758,7 @@ MultiLanguageSpellData['fr'][78269] = {name = "Quest Credit: That's Why They Cal
 MultiLanguageSpellData['fr'][78270] = {name = "Invocation d'un estimateur kvaldir", additional_info = nil}
 MultiLanguageSpellData['fr'][78271] = {name = "Phase Shift 1 Kelp Forest and Holding Pens", additional_info = nil}
 MultiLanguageSpellData['fr'][78272] = {name = "Flamme ronflante", additional_info = nil}
-MultiLanguageSpellData['fr'][78273] = {name = "Arme Langue de feu", additional_info = "6% de la mana de base\nInstantanée\nRequiert Arme de mêlée\n[q]Imprègne de feu l'arme du chaman et augmente le total de dégâts des sorts de 7. Chaque coup inflige de $/78275m1 à 1 points de dégâts de Feu supplémentaires. Dure 30 minutes."}
+MultiLanguageSpellData['fr'][78273] = {name = "Arme Langue de feu", additional_info = "6% de la mana de base\nInstantanée\nRequiert Arme de mêlée\n[q]Imprègne de feu l'arme du chaman et augmente le total de dégâts des sorts de 7. Chaque coup inflige de /78275m1 à 1 points de dégâts de Feu supplémentaires. Dure 30 minutes."}
 MultiLanguageSpellData['fr'][78274] = {name = "Visuel de cyclone", additional_info = nil}
 MultiLanguageSpellData['fr'][78275] = {name = "Creature - Flametongue Weapon Proc", additional_info = nil}
 MultiLanguageSpellData['fr'][78276] = {name = "Casque de plongée de chien", additional_info = nil}
@@ -19074,7 +19074,6 @@ MultiLanguageSpellData['fr'][108374] = {name = "Totem de feu amplificateur", add
 MultiLanguageSpellData['fr'][108387] = {name = "Update Zone Auras and Phase Shift", additional_info = nil}
 MultiLanguageSpellData['fr'][108419] = {name = "Acide digestif", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 30625 to 39375 points de dégâts de Nature à la cible ennemie."}
 MultiLanguageSpellData['fr'][108424] = {name = "Illusion d’elfe de la nuit", additional_info = nil}
-MultiLanguageSpellData['fr'][108436] = {name = "Explosion de lave", additional_info = nil}
 MultiLanguageSpellData['fr'][108437] = {name = "Déclencheur d’explosion de lave", additional_info = nil}
 MultiLanguageSpellData['fr'][108442] = {name = "Explosion de lave", additional_info = "{7% de la mana de base} {40 m de portée}\n2.5 s d'incantation\n[q]Inflige 10000 points de dégâts de Feu."}
 MultiLanguageSpellData['fr'][108443] = {name = "Flèche glacée", additional_info = "60 m de portée\n1 s d'incantation\n[q]Place un piège de givre qui gèle le premier ennemi qui s'en approche et l'empêche d'agir pendant 5 sec au maximum. Tous les dégâts subis brisent le givre. Le piège reste en place pendant until cancelled. Un seul piège peut être actif à la fois."}
@@ -19102,15 +19101,12 @@ MultiLanguageSpellData['fr'][108498] = {name = "Teleport to PTR Encounter", addi
 MultiLanguageSpellData['fr'][108500] = {name = "Teleport to PTR Encounter", additional_info = nil}
 MultiLanguageSpellData['fr'][108502] = {name = "Teleport to PTR Encounter", additional_info = nil}
 MultiLanguageSpellData['fr'][108513] = {name = "Bronze Yell 2", additional_info = nil}
-MultiLanguageSpellData['fr'][108514] = {name = "Bronze Yell 3", additional_info = nil}
 MultiLanguageSpellData['fr'][108515] = {name = "Bronze Yell 4", additional_info = nil}
 MultiLanguageSpellData['fr'][108516] = {name = "Jump to Dest", additional_info = nil}
 MultiLanguageSpellData['fr'][108517] = {name = "Jump to Dest Forcecast", additional_info = nil}
 MultiLanguageSpellData['fr'][108530] = {name = "Âme des dragons chargée", additional_info = nil}
 MultiLanguageSpellData['fr'][108531] = {name = "Âme des dragons chargée", additional_info = nil}
 MultiLanguageSpellData['fr'][108536] = {name = "Sort offensif de défense de Repos du ver", additional_info = nil}
-MultiLanguageSpellData['fr'][108537] = {name = "Rappel astral", additional_info = "Portée illimitée\n2 s d'incantation\n[q]Téléporte Thrall."}
-MultiLanguageSpellData['fr'][108544] = {name = "Dragon Soul Cosmetic", additional_info = nil}
 MultiLanguageSpellData['fr'][108550] = {name = "Nova de feu", additional_info = nil}
 MultiLanguageSpellData['fr'][108551] = {name = "Assaut d'ombre", additional_info = nil}
 MultiLanguageSpellData['fr'][108555] = {name = "Assaut d'ombre", additional_info = nil}
@@ -19119,11 +19115,9 @@ MultiLanguageSpellData['fr'][108582] = {name = "Chevaucher un drake", additional
 MultiLanguageSpellData['fr'][108583] = {name = "Force Summoner to Ride Vehicle", additional_info = nil}
 MultiLanguageSpellData['fr'][108584] = {name = "Invocation d'un drake", additional_info = "Instantanée"}
 MultiLanguageSpellData['fr'][108589] = {name = "Coup de queue", additional_info = "30 m de portée\nInstantanée\n[q]Inflige 15000 points de dégâts aux ennemis qui se trouvent dans une zone en forme de cône derrière le lanceur de sorts et les fait tomber à la renverse."}
-MultiLanguageSpellData['fr'][108597] = {name = "Parasite corrupteur", additional_info = nil}
 MultiLanguageSpellData['fr'][108599] = {name = "Cosmetic - Fly", additional_info = nil}
 MultiLanguageSpellData['fr'][108601] = {name = "Parasite corrupteur", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 17550 to 18450 points de dégâts d'Ombre."}
 MultiLanguageSpellData['fr'][108610] = {name = "Drain d’essence", additional_info = "Canalisée"}
-MultiLanguageSpellData['fr'][108611] = {name = "Cosmetic - Shadowstep Visual", additional_info = nil}
 MultiLanguageSpellData['fr'][108614] = {name = "Cosmetic - Shadowstep Visual", additional_info = nil}
 MultiLanguageSpellData['fr'][108615] = {name = "Ysera Good Dragon Soul Beam", additional_info = nil}
 MultiLanguageSpellData['fr'][108616] = {name = "Sori Good Dragon Soul Beam", additional_info = nil}
@@ -19800,6 +19794,20 @@ MultiLanguageSpellData['fr'][113836] = {name = "Retranchement aqueux", additiona
 MultiLanguageSpellData['fr'][114406] = {name = "Dissuasion", additional_info = nil}
 MultiLanguageSpellData['fr'][121805] = {name = "Monture III parrainage", additional_info = "1.5 s d'incantation\n[q]Invoque et renvoie une monture III parrainage. Cette monture change en fonction de votre compétence de monte et de l'endroit où vous vous trouvez."}
 MultiLanguageSpellData['fr'][121820] = {name = "Aile-de-nuit obsidienne", additional_info = "1.5 s d'incantation\n[q]Vous transforme en aile-de-nuit obsidienne, ce qui vous permet de voler très vite et de porter un allié sur votre dos. Cette monture peut voler."}
+MultiLanguageSpellData['fr'][126236] = {name = "Glissant", additional_info = "Instantanée\n[q]Esquive augmentée de 963 pendant 15 sec."}
+MultiLanguageSpellData['fr'][126237] = {name = "Item – Proc Dodge", additional_info = "[q]Vos attaques vous confèrent une chance de recevoir un bonus à l’esquive de 963 pendant 15 sec. (15 % de chances, 55 s de temps de recharge)\n(Chance d'occurence :15%, 55sec de recharge)"}
+MultiLanguageSpellData['fr'][126266] = {name = "Illumination", additional_info = "Instantanée\n[q]Intelligence augmentée de 1926 pendant 10 sec."}
+MultiLanguageSpellData['fr'][126268] = {name = "Item – Proc Intellect", additional_info = "[q]Vos sorts de soins ont une chance de vous conférer un bonus de 1926 à l’Intelligence pendant 10 sec.\n(Chance d'occurence :10%, 30sec de recharge)"}
+MultiLanguageSpellData['fr'][126467] = {name = "Apport en mana", additional_info = "100 m de portée\nInstantanée\n[q]Donne 5700 points de mana."}
+MultiLanguageSpellData['fr'][126468] = {name = "Price of Progress – Item – Proc Mana Energize", additional_info = "[q]Vos sorts de soins ont une chance de vous conférer 5700 points de mana. (10 % de chances, 55 s de temps de recharge)\n(Chance d'occurence :10%, 55sec de recharge)"}
+MultiLanguageSpellData['fr'][126552] = {name = "Item – Proc Agility", additional_info = "[q]Vos attaques vous confèrent une chance de recevoir un bonus à l’Agilité de 963 pendant 20 sec. (15 % de chances, 55 s de temps de recharge)\n(Chance d'occurence :15%, 55sec de recharge)"}
+MultiLanguageSpellData['fr'][126554] = {name = "Agile", additional_info = "Instantanée\n[q]Agilité augmentée de 963 pendant 20 sec."}
+MultiLanguageSpellData['fr'][126582] = {name = "Puissance inébranlable", additional_info = "Instantanée\n[q]Force augmentée de 963 pendant 20 sec."}
+MultiLanguageSpellData['fr'][126583] = {name = "Item – Proc Strength", additional_info = "[q]Vos attaques vous confèrent une chance de recevoir un bonus à la Force de 963 pendant 20 sec. (15 % de chances, 55 s de temps de recharge)\n(Chance d'occurence :15%, 55sec de recharge)"}
+MultiLanguageSpellData['fr'][126659] = {name = "Langues accélérées", additional_info = "Instantanée\n[q]Hâte augmentée de 963 pendant 20 sec."}
+MultiLanguageSpellData['fr'][126660] = {name = "Item – Spell Hits Proc Haste", additional_info = "[q]Quand vos sorts néfastes touchent, vous avez une chance de recevoir un bonus à la hâte de 963 pendant 20 sec. (15 % de chances, 115 s de temps de recharge)\n(Chance d'occurence :15%, 1.917min de recharge)"}
+MultiLanguageSpellData['fr'][133630] = {name = "Expertise exquise", additional_info = "40 m de portée\nInstantanée\n[q]Augmente le score de maîtrise de 2573 pendant 20 sec."}
+MultiLanguageSpellData['fr'][133631] = {name = "Item – Attacks Proc Mastery", additional_info = "[q]Quand vos attaques touchent, vous avez une chance de bénéficier d’un bonus de 0 à la maîtrise pendant until cancelled.\n(Chance d'occurence :15%, 1.083min de recharge)"}
 MultiLanguageSpellData['fr'][158263] = {name = "Couard", additional_info = nil}
 MultiLanguageSpellData['fr'][160597] = {name = "Création d’héritage", additional_info = nil}
 MultiLanguageSpellData['fr'][171555] = {name = "Marqueur de raid 6", additional_info = "Instantanée"}
@@ -19844,6 +19852,7 @@ MultiLanguageSpellData['fr'][346285] = {name = "Faire semblant", additional_info
 MultiLanguageSpellData['fr'][347065] = {name = "Réinitialiser l’évènement de Saphiron", additional_info = nil}
 MultiLanguageSpellData['fr'][347551] = {name = "Réinitialiser les ajouts de Faerlina", additional_info = nil}
 MultiLanguageSpellData['fr'][347564] = {name = "Réinitialiser les ajouts de Razuvious", additional_info = nil}
+MultiLanguageSpellData['fr'][347869] = {name = "Fly", additional_info = "Instantanée\n[q]Take flight!"}
 MultiLanguageSpellData['fr'][348005] = {name = "Poison", additional_info = "50 m de portée\nInstantanée\n[q]Inflige des dégâts de Nature à un ennemi toutes les 3 sec. pendant 30 sec."}
 MultiLanguageSpellData['fr'][348021] = {name = "Appel à l'aide", additional_info = nil}
 MultiLanguageSpellData['fr'][348023] = {name = "Grobbulus vaincu – Nettoyage", additional_info = nil}
@@ -20446,6 +20455,7 @@ MultiLanguageSpellData['fr'][466980] = {name = "Hippogriffe né du chaos", addit
 MultiLanguageSpellData['fr'][466983] = {name = "Griffon né du chaos", additional_info = "1.5 s d'incantation\n[q]Invoque et renvoie un griffon né du chaos. Cette monture peut voler."}
 MultiLanguageSpellData['fr'][468201] = {name = "Reven", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer Reven."}
 MultiLanguageSpellData['fr'][468215] = {name = "Apprendre les familiers d’Argent", additional_info = nil}
+MultiLanguageSpellData['fr'][468247] = {name = "Serpenteau d’air en bois", additional_info = "Instantanée\n[q]Clic droit pour invoquer ou renvoyer le serpenteau d’air en bois."}
 MultiLanguageSpellData['fr'][469265] = {name = "Attribuer marques de l’Arbre-Monde – 10", additional_info = "Instantanée\n[q]Vous donne 10 marques de l’Arbre-Monde."}
 MultiLanguageSpellData['fr'][469349] = {name = "Reflet de Tourment", additional_info = "Instantanée\n[q]Augmente la puissance d’attaque de 3576 pendant 10 sec."}
 MultiLanguageSpellData['fr'][469350] = {name = "Reflet de Tourment", additional_info = "[q]Confère une chance lorsque vous réussissez un coup critique en mêlée ou à distance d’augmenter votre puissance d’attaque de 3576 pendant 10 s.\n(Chance d'occurence :10%, 50sec de recharge)"}
@@ -20464,8 +20474,190 @@ MultiLanguageSpellData['fr'][473583] = {name = "Ouverture du portail de feu", ad
 MultiLanguageSpellData['fr'][473683] = {name = "Combat Pulse", additional_info = nil}
 MultiLanguageSpellData['fr'][1214176] = {name = "Attribuer 250 points de justice", additional_info = "Instantanée\n[q]Vous attribue 250 points de justice."}
 MultiLanguageSpellData['fr'][1214948] = {name = "Tir explosif", additional_info = nil}
-MultiLanguageSpellData['fr'][1215229] = {name = "Item - Shaman T12 Elemental 2P Bonus", additional_info = "[q]Votre Eclair a 30% de chances de réduire le temps de recharge restant de votre Totem d’élémentaire de feu de 4 s.\n(Chance d'occurence :30%)"}
+MultiLanguageSpellData['fr'][1215229] = {name = "Item - Shaman T12 Elemental 2P Bonus", additional_info = "[q]Votre Éclair a 30 % de chances de réduire le temps de recharge restant de votre Totem d’élémentaire de feu de 4 s.\n(Chance d'occurence :30%)"}
 MultiLanguageSpellData['fr'][1215484] = {name = "Tir explosif", additional_info = "100 m de portée\nInstantanée\nRequiert Arme à distance\n[q]Vous lancez une charge explosive sur la cible et lui infligez (Ranged attack power * 0.273 + 449 ) point de dégâts de feu. La charge explose ensuite sur la cible toutes les secondes pendant 2 sec supplémentaires."}
 MultiLanguageSpellData['fr'][1215485] = {name = "Tir explosif", additional_info = "100 m de portée\nInstantanée\nRequiert Arme à distance\n[q]Vous lancez une charge explosive sur la cible et lui infligez (Ranged attack power * 0.273 + 449 ) point de dégâts de feu. La charge explose ensuite sur la cible toutes les secondes pendant 2 sec supplémentaires."}
 MultiLanguageSpellData['fr'][1215486] = {name = "Tir explosif", additional_info = "100 m de portée\nInstantanée\nRequiert Arme à distance\n[q]Vous lancez une charge explosive sur la cible et lui infligez (Ranged attack power * 0.273 + 449 ) point de dégâts de feu. La charge explose ensuite sur la cible toutes les secondes pendant 2 sec supplémentaires."}
 MultiLanguageSpellData['fr'][1215492] = {name = "Chaleur extrême", additional_info = "Portée illimitée\nInstantanée\n[q]Ragnaros a atteint sa pleine puissance et sa chaleur est extrême ! Inflige 6000 points de dégâts de Feu toutes les 5 s et augmente les dégâts de Feu subis de 10%. Cumulable."}
+MultiLanguageSpellData['fr'][1216290] = {name = "[q3]Globe oculaire assoiffé de sang de domination", additional_info = "3 s d'incantation 2\nOutils: Coffret de calligraphie de virtuose\nComposants:\nEncre du feu d'enfer (5), Eau volatile (12), Oeil d'ogre préservé\n[q3]Globe oculaire assoiffé de sang de domination\nLié quand équipé\nRelique\n+159 Endurance\n+106 Intelligence\n\n[q0]Châsse prismatique\n\n85 requis\n[q2]Équipé : Augmente de 71 le score de coup critique.\n[q2]Équipé : Augmente de 71 le score de résilience."}
+MultiLanguageSpellData['fr'][1216316] = {name = "[q3]Charme assoiffé de sang de triomphe", additional_info = "3 s d'incantation 2\nOutils: Coffret de calligraphie de virtuose\nComposants:\nEncre du feu d'enfer (5), Vie volatile (6), Eau volatile (6), Bracelet de breloques d'argent\n[q3]Charme assoiffé de sang de triomphe\nLié quand équipé\nRelique\n+106 Agilité\n+159 Endurance\n\n[q0]Châsse prismatique\n\n85 requis\n[q2]Équipé : Augmente de 71 le score de coup critique.\n[q2]Équipé : Augmente de 71 le score de résilience."}
+MultiLanguageSpellData['fr'][1216317] = {name = "[q3]Mâchoire assoiffée de sang de conquête", additional_info = "3 s d'incantation 2\nOutils: Coffret de calligraphie de virtuose\nComposants:\nEncre du feu d'enfer (5), Vie volatile (12), Mâchoire blanchie\n[q3]Mâchoire assoiffée de sang de conquête\nLié quand équipé\nRelique\n+106 Force\n+159 Endurance\n\n[q0]Châsse prismatique\n\n85 requis\n[q2]Équipé : Augmente de 71 le score de coup critique.\n[q2]Équipé : Augmente de 71 le score de résilience."}
+MultiLanguageSpellData['fr'][1216321] = {name = "[q3]Pendentif assoiffé de sang en ambréine", additional_info = "12.5 s d'incantation\nComposants:\nMonture de joaillier , Ambréine (5), Eau volatile (8), Vie volatile (4)\n[q3]Pendentif assoiffé de sang en ambréine\nLié quand équipé\nCou\n+282 Endurance\n+188 Intelligence\n85 requis\n[q2]Équipé : Augmente de 126 le score de résilience.\n[q2]Équipé : Augmente de 126 le score de hâte."}
+MultiLanguageSpellData['fr'][1216323] = {name = "[q3]Anneau assoiffé de sang en saphir", additional_info = "12.5 s d'incantation\nComposants:\nMonture de joaillier , Saphir océan (4), Air volatil (8)\n[q3]Anneau assoiffé de sang en saphir\nLié quand équipé\nDoigt\n+188 Agilité\n+282 Endurance\n85 requis\n[q2]Équipé : Augmente de 126 le score de coup critique.\n[q2]Équipé : Augmente de 126 le score de résilience."}
+MultiLanguageSpellData['fr'][1216328] = {name = "[q3]Bague assoiffée de sang en ambréine", additional_info = "12.5 s d'incantation\nComposants:\nMonture de joaillier , Ambréine (4), Eau volatile (8)\n[q3]Bague assoiffée de sang en ambréine\nLié quand équipé\nDoigt\n+282 Endurance\n+188 Intelligence\n+126 Esprit\n85 requis\n[q2]Équipé : Augmente de 126 le score de résilience."}
+MultiLanguageSpellData['fr'][1216329] = {name = "[q3]Chevalière assoiffée de sang en rubis", additional_info = "12.5 s d'incantation\nComposants:\nMonture de joaillier , Rubis du feu d'enfer (4), Terre volatile (8)\n[q3]Chevalière assoiffée de sang en rubis\nLié quand équipé\nDoigt\n+188 Force\n+282 Endurance\n85 requis\n[q2]Équipé : Augmente de 126 le score de coup critique.\n[q2]Équipé : Augmente de 126 le score de résilience."}
+MultiLanguageSpellData['fr'][1216330] = {name = "[q3]Collier assoiffé de sang en saphir", additional_info = "12.5 s d'incantation\nComposants:\nMonture de joaillier , Saphir océan (5), Air volatil (8), Feu volatil (4)\n[q3]Collier assoiffé de sang en saphir\nLié quand équipé\nCou\n+188 Agilité\n+282 Endurance\n85 requis\n[q2]Équipé : Augmente de 126 le score de résilience.\n[q2]Équipé : Augmente de 126 le score d’expertise."}
+MultiLanguageSpellData['fr'][1216331] = {name = "[q3]Sautoir assoiffé de sang en rubis", additional_info = "12.5 s d'incantation\nComposants:\nMonture de joaillier , Rubis du feu d'enfer (5), Terre volatile (8), Eau volatile (6)\n[q3]Sautoir assoiffé de sang en rubis\nLié quand équipé\nCou\n+188 Force\n+282 Endurance\n85 requis\n[q2]Équipé : Augmente de 126 le score de résilience.\n[q2]Équipé : Augmente de 126 le score d’expertise."}
+MultiLanguageSpellData['fr'][1216335] = {name = "[q3]Cape assoiffée de sang en fourrure", additional_info = "2 s d'incantation 3\nComposants:\nPeau en parfait état , Terre volatile (4)\n[q3]Cape assoiffée de sang en fourrure\nLié quand équipé\nDos\nArmure : 622\n+188 Agilité\n+282 Endurance\n85 requis\n[q2]Équipé : Augmente de 126 le score de coup critique.\n[q2]Équipé : Augmente de 126 le score de résilience."}
+MultiLanguageSpellData['fr'][1216336] = {name = "[q3]Cape assoiffée de sang en peau", additional_info = "2 s d'incantation 3\nComposants:\nPeau en parfait état , Feu volatil (4)\n[q3]Cape assoiffée de sang en peau\nLié quand équipé\nDos\nArmure : 622\n+188 Force\n+282 Endurance\n[q2]Augmente votre score de maîtrise de + 126.\n85 requis\n[q2]Équipé : Augmente de 126 le score de résilience."}
+MultiLanguageSpellData['fr'][1216338] = {name = "[q3]Cape assoiffée de sang en braise-soie", additional_info = "2 s d'incantation 2\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (6), Feu volatil (6)\n[q3]Cape assoiffée de sang en braise-soie\nLié quand équipé\nDos\nArmure : 622\n+282 Endurance\n+188 Intelligence\n[q2]Augmente votre score de maîtrise de + 126.\n85 requis\n[q2]Équipé : Augmente de 126 le score de résilience.\n\n[q]Braise-soie assoiffée de sang (0/9)\n[q0]Ceinture assoiffée de sang en braise-soie\nBottes assoiffées de sang en braise-soie\nBrassards assoiffés de sang en braise-soie\nCape assoiffée de sang en braise-soie\nCapuche assoiffée de sang en braise-soie\nGants assoiffés de sang en braise-soie\nPantalon assoiffé de sang en braise-soie\nRobe assoiffée de sang en braise-soie\nEpaulières assoiffées de sang en braise-soie"}
+MultiLanguageSpellData['fr'][1223558] = {name = "Résonance de l’Âme des dragons", additional_info = "Instantanée\n[q]L’Âme des dragons vous emplit de force. Elle augmente le total de points de vie, les soins prodigués, l’absorption des dégâts et les dégâts infligés de 5 %."}
+MultiLanguageSpellData['fr'][1223561] = {name = "Résonance de l’Âme des dragons", additional_info = "Instantanée\n[q]L’Âme des dragons vous emplit de force. Elle augmente le total de points de vie, les soins prodigués, l’absorption des dégâts et les dégâts infligés de 10 %."}
+MultiLanguageSpellData['fr'][1223564] = {name = "Résonance de l’Âme des dragons", additional_info = "Instantanée\n[q]L’Âme des dragons vous emplit de force. Elle augmente le total de points de vie, les soins prodigués, l’absorption des dégâts et les dégâts infligés de 15 %."}
+MultiLanguageSpellData['fr'][1223565] = {name = "Résonance de l’Âme des dragons", additional_info = "Instantanée\n[q]L’Âme des dragons vous emplit de force. Elle augmente le total de points de vie, les soins prodigués, l’absorption des dégâts et les dégâts infligés de 20 %."}
+MultiLanguageSpellData['fr'][1223566] = {name = "Résonance de l’Âme des dragons", additional_info = "Instantanée\n[q]L’Âme des dragons vous emplit de force. Elle augmente le total de points de vie, les soins prodigués, l’absorption des dégâts et les dégâts infligés de 25 %."}
+MultiLanguageSpellData['fr'][1223567] = {name = "Résonance de l’Âme des dragons", additional_info = "Instantanée\n[q]L’Âme des dragons vous emplit de force. Elle augmente le total de points de vie, les soins prodigués, l’absorption des dégâts et les dégâts infligés de 30 %."}
+MultiLanguageSpellData['fr'][1223568] = {name = "Résonance de l’Âme des dragons", additional_info = nil}
+MultiLanguageSpellData['fr'][1223669] = {name = "Ouverture", additional_info = "2 s d'incantation\n[q]Ouvrez le sac !"}
+MultiLanguageSpellData['fr'][1224138] = {name = "[q3]Ceinture vicieuse en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224139] = {name = "[q3]Bottes vicieuses en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224140] = {name = "[q3]Brassards vicieux en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224141] = {name = "[q3]Plastron vicieux en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224142] = {name = "[q3]Gants vicieux en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224143] = {name = "[q3]Heaume vicieux en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224144] = {name = "[q3]Jambières vicieuses en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224145] = {name = "[q3]Épaulières vicieuses en calcinécailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224146] = {name = "[q3]Ceinture vicieuse en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224147] = {name = "[q3]Bottes vicieuses en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224148] = {name = "[q3]Brassards vicieux en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224149] = {name = "[q3]Plastron vicieux en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224150] = {name = "[q3]Gants vicieux en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224151] = {name = "[q3]Heaume vicieux en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224152] = {name = "[q3]Jambières vicieuses en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224153] = {name = "[q3]Épaulières vicieuses en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224154] = {name = "[q3]Ceinture vicieuse en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224155] = {name = "[q3]Bottes vicieuses en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224156] = {name = "[q3]Brassards vicieux en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Feu volatil (4), Eau volatile (4)"}
+MultiLanguageSpellData['fr'][1224157] = {name = "[q3]Capuche vicieuse en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224158] = {name = "[q3]Gants vicieux en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224159] = {name = "[q3]Pantalon vicieux en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224160] = {name = "[q3]Robe vicieuse en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224161] = {name = "[q3]Épaulières vicieuses en braise-soie", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Eau volatile (3), Feu volatil (3)"}
+MultiLanguageSpellData['fr'][1224162] = {name = "[q3]Ceinture vicieuse en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Feu volatil (3), Air volatil (3)"}
+MultiLanguageSpellData['fr'][1224163] = {name = "[q3]Bottes vicieuses en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Eau volatile (4)"}
+MultiLanguageSpellData['fr'][1224164] = {name = "[q3]Brassards vicieux en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Feu volatil (3), Air volatil (3)"}
+MultiLanguageSpellData['fr'][1224165] = {name = "[q3]Capuche vicieuse en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224166] = {name = "[q3]Gants vicieux en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224167] = {name = "[q3]Pantalon vicieux en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224168] = {name = "[q3]Robe vicieuse en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (8), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224169] = {name = "[q3]Épaulières vicieuses en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224170] = {name = "[q3]Ceinture vicieuse en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224171] = {name = "[q3]Bottes vicieuses en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224172] = {name = "[q3]Brassards vicieux en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224173] = {name = "[q3]Plastron vicieux en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224174] = {name = "[q3]Gants vicieux en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224175] = {name = "[q3]Heaume vicieux en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224176] = {name = "[q3]Jambières vicieuses en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224177] = {name = "[q3]Épaulières vicieuses en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224178] = {name = "[q3]Ceinture vicieuse ornée en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224179] = {name = "[q3]Bottes vicieuses ornées en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224180] = {name = "[q3]Brassards vicieux ornés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (8), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224181] = {name = "[q3]Cuirasse vicieuse ornée en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224182] = {name = "[q3]Gantelets vicieux ornés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224183] = {name = "[q3]Heaume vicieux orné en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224184] = {name = "[q3]Garde-jambes vicieux ornés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224185] = {name = "[q3]Épaulières vicieuses ornées en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224186] = {name = "[q3]Ceinture vicieuse en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224187] = {name = "[q3]Bottes vicieuses en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224188] = {name = "[q3]Brassards vicieux en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (8), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224189] = {name = "[q3]Cuirasse vicieuse en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224190] = {name = "[q3]Gantelets vicieux en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224191] = {name = "[q3]Heaume vicieux en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224192] = {name = "[q3]Garde-jambes vicieux en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224193] = {name = "[q3]Épaulières vicieuses en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224194] = {name = "[q3]Ceinture vicieuse en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224195] = {name = "[q3]Bottes vicieuses en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224196] = {name = "[q3]Brassards vicieux en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224197] = {name = "[q3]Plastron vicieux en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224198] = {name = "[q3]Gants vicieux en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224199] = {name = "[q3]Heaume vicieux en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224200] = {name = "[q3]Jambières vicieuses en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224201] = {name = "[q3]Épaulières vicieuses en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224208] = {name = "[q3]Ceinture en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Feu volatil (3), Air volatil (3)"}
+MultiLanguageSpellData['fr'][1224209] = {name = "[q3]Brassards en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Feu volatil (4), Eau volatile (4)"}
+MultiLanguageSpellData['fr'][1224210] = {name = "[q3]Brassards en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Feu volatil (3), Air volatil (3)"}
+MultiLanguageSpellData['fr'][1224211] = {name = "[q3]Épaulières en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (6), Eau volatile (3), Feu volatil (3)"}
+MultiLanguageSpellData['fr'][1224212] = {name = "[q3]Épaulières en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224213] = {name = "[q3]Ceinture en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224214] = {name = "[q3]Bottes en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Eau volatile (4)"}
+MultiLanguageSpellData['fr'][1224215] = {name = "[q3]Gants en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224216] = {name = "[q3]Gants en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224217] = {name = "[q3]Bottes en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224218] = {name = "[q3]Pantalon en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224219] = {name = "[q3]Robe en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (8), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224220] = {name = "[q3]Capuche en tisse-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Feu volatil (4), Air volatil (4)"}
+MultiLanguageSpellData['fr'][1224221] = {name = "[q3]Robe en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224222] = {name = "[q3]Capuche en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224223] = {name = "[q3]Pantalon en braise-feu", additional_info = "2 s d'incantation\nComposants:\nRouleau d'étoffe de braise-soie (10), Eau volatile (4), Feu volatil (4)"}
+MultiLanguageSpellData['fr'][1224224] = {name = "[q3]Brassards ensanglantés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (8), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224225] = {name = "[q3]Gantelets ensanglantés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224226] = {name = "[q3]Ceinture ensanglantée en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224227] = {name = "[q3]Bottes ensanglantées en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224228] = {name = "[q3]Épaulières ensanglantées en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224229] = {name = "[q3]Garde-jambes ensanglantés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224230] = {name = "[q3]Heaume ensanglanté en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224231] = {name = "[q3]Cuirasse ensanglantée en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224232] = {name = "[q3]Brassards ornés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (8), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224233] = {name = "[q3]Gantelets ornés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224234] = {name = "[q3]Ceinture ornée en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224235] = {name = "[q3]Bottes ornées en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224236] = {name = "[q3]Épaulières ornées en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (12), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224237] = {name = "[q3]Garde-jambes ornés en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224238] = {name = "[q3]Heaume orné en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224239] = {name = "[q3]Cuirasse ornée en pyrium", additional_info = "2 s d'incantation\nOutils: Marteau de forgeron\nComposants:\nBarre d'élémentium (15), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224240] = {name = "[q3]Brassards ensanglantés en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224241] = {name = "[q3]Ceinture ensanglantée en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224242] = {name = "[q3]Brassards ensanglantés en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224243] = {name = "[q3]Gants ensanglantés en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224244] = {name = "[q3]Brassards ensanglantés en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224245] = {name = "[q3]Gants ensanglantés en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224246] = {name = "[q3]Brassards ensanglantés en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224247] = {name = "[q3]Épaulières ensanglantées en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224248] = {name = "[q3]Gants ensanglantés en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224249] = {name = "[q3]Bottes ensanglantées en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224250] = {name = "[q3]Bottes ensanglantées en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224251] = {name = "[q3]Épaulières ensanglantées en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224252] = {name = "[q3]Bottes ensanglantées en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224253] = {name = "[q3]Ceinture ensanglantée en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224254] = {name = "[q3]Bottes ensanglantées en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224255] = {name = "[q3]Gants ensanglantés en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Feu volatil (10)"}
+MultiLanguageSpellData['fr'][1224256] = {name = "[q3]Épaulières ensanglantées en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224257] = {name = "[q3]Plastron ensanglanté en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224258] = {name = "[q3]Ceinture ensanglantée en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224259] = {name = "[q3]Heaume ensanglanté en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224260] = {name = "[q3]Épaulières ensanglantées en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224261] = {name = "[q3]Jambières ensanglantées en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224262] = {name = "[q3]Ceinture ensanglantée en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224263] = {name = "[q3]Heaume ensanglanté en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Eau volatile (10)"}
+MultiLanguageSpellData['fr'][1224264] = {name = "[q3]Jambières ensanglantées en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224265] = {name = "[q3]Heaume ensanglanté en peau de wyrm", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224266] = {name = "[q3]Plastron ensanglanté en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224267] = {name = "[q3]Jambières ensanglantées en cuir", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224268] = {name = "[q3]Plastron ensanglanté en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224269] = {name = "[q3]Heaume ensanglanté en écailles", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224270] = {name = "[q3]Jambières ensanglantées en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224271] = {name = "[q3]Plastron ensanglanté en écailles de dragon", additional_info = "3 s d'incantation\nComposants:\nCuir sauvage lourd (8), Ecaille de dragon noircie (10), Vie volatile (10)"}
+MultiLanguageSpellData['fr'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "Instantanée\n[q]Dragon Soul is disabled on the PTR at this time."}
+MultiLanguageSpellData['fr'][1224920] = {name = "Protocol Twilight", additional_info = "Portée illimitée\n{Instantanée} {1 min de recharge}"}
+MultiLanguageSpellData['fr'][1224921] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['fr'][1224922] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['fr'][1224923] = {name = "Twilight's Madness", additional_info = "Instantanée\n(Chance d'occurence :35%, 30sec de recharge)"}
+MultiLanguageSpellData['fr'][1224924] = {name = "Summon Defender", additional_info = "Instantanée\n[q]Summon a Wyrmrest Defender."}
+MultiLanguageSpellData['fr'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
+MultiLanguageSpellData['fr'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Portée illimitée\nInstantanée\n(1sec de recharge)"}
+MultiLanguageSpellData['fr'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
+MultiLanguageSpellData['fr'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Portée illimitée\nInstantanée\n(1sec de recharge)"}
+MultiLanguageSpellData['fr'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['fr'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['fr'][1224931] = {name = "Verdant Surge", additional_info = nil}
+MultiLanguageSpellData['fr'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "Portée illimitée\nInstantanée\n(1sec de recharge)"}
+MultiLanguageSpellData['fr'][1224933] = {name = "Verdant Restoration", additional_info = nil}
+MultiLanguageSpellData['fr'][1224934] = {name = "Sang luminescent de Shu'ma", additional_info = "Instantanée\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['fr'][1224935] = {name = "Vide de mana", additional_info = "30 m de portée\nInstantanée\n[q]Inflige 0 points de dégâts d’Ombre aux ennemis proches."}
+MultiLanguageSpellData['fr'][1224936] = {name = "Sang brûlant", additional_info = "30 m de portée\n{Instantanée} {3 s de recharge}\n[q]Enflamme le sang d’ennemis se trouvant à distance, choisis au hasard, et leur inflige des dégâts proportionnels à la distance qui les sépare du lanceur."}
+MultiLanguageSpellData['fr'][1224937] = {name = "Corruption des serviteurs", additional_info = nil}
+MultiLanguageSpellData['fr'][1224938] = {name = "Corruption des serviteurs", additional_info = "200 m de portée\nInstantanée\n[q]Tire un jet de magma bouillant sur un ennemi, lui inflige 29250 to 30750 points de dégâts et scinde le sol."}
+MultiLanguageSpellData['fr'][1224939] = {name = "Acide digestif", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 30625 to 39375 points de dégâts de Nature à la cible ennemie."}
+MultiLanguageSpellData['fr'][1224940] = {name = "Acide digestif", additional_info = "Portée illimitée\nInstantanée\n[q]Inflige 67275 to 70725 points de dégâts de Nature à la cible ennemie."}
+MultiLanguageSpellData['fr'][1224941] = {name = "Acide digestif", additional_info = "Instantanée"}
+MultiLanguageSpellData['fr'][1224942] = {name = "Acide digestif", additional_info = nil}
+MultiLanguageSpellData['fr'][1224943] = {name = "Acide digestif", additional_info = "200 m de portée\nInstantanée\n[q]Inflige 0 points de dégâts de Nature toutes les 5 secondes."}
+MultiLanguageSpellData['fr'][1224944] = {name = "Corruption profonde", additional_info = "150 m de portée\nInstantanée\n[q]Inflige 46250 to 53750 points de dégâts à tous les alliés proches."}
+MultiLanguageSpellData['fr'][1224945] = {name = "Corruption profonde", additional_info = "100 m de portée\nInstantanée\n[q]Les soins reçus ou les effets d’absorption déclenchent une détonation au bout de 5 cumulés."}
+MultiLanguageSpellData['fr'][1224946] = {name = "Corruption profonde", additional_info = "100 m de portée\nInstantanée\n[q]Les soins reçus ou les effets d’absorption déclenchent une détonation au bout de 5 cumulés."}
+MultiLanguageSpellData['fr'][1224947] = {name = "Corruption profonde", additional_info = nil}
+MultiLanguageSpellData['fr'][1224948] = {name = "Corruption profonde", additional_info = nil}
+MultiLanguageSpellData['fr'][1224949] = {name = "Corruption profonde", additional_info = nil}
+MultiLanguageSpellData['fr'][1224950] = {name = "Corruption profonde", additional_info = "150 m de portée\nInstantanée\n[q]Inflige 89725 to 104275 points de dégâts à tous les alliés proches."}
+MultiLanguageSpellData['fr'][1224951] = {name = "Corruption profonde", additional_info = "100 m de portée\nInstantanée\n[q]Les soins reçus ou les effets d’absorption déclenchent une détonation au bout de 5 cumulés."}
+MultiLanguageSpellData['fr'][1224952] = {name = "Corruption profonde", additional_info = "100 m de portée\nInstantanée\n[q]Les soins reçus ou les effets d’absorption déclenchent une détonation au bout de 5 cumulés."}
