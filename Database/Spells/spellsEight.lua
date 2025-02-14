@@ -1698,7 +1698,7 @@ MultiLanguageSpellData['fr'][471683] = {name = "Barrage céleste", additional_in
 MultiLanguageSpellData['fr'][471696] = {name = "Serregriffe", additional_info = "1.5 s d'incantation\n[q]Invoque et renvoie cette monture.\n\n Cette monture peut transporter d’autres personnages-joueurs.\n[q]\"Serregriffe fit autrefois voile avec les boucaniers de la Voile sanglante, puis rejoignit les écumeurs des Flots noirs, avant de finir par partir en quête de pillage par-delà la haute mer.\"\nÉvènement spécial :\nPlunderstorm"}
 MultiLanguageSpellData['fr'][471697] = {name = "Apprendre le sort : Serregriffe", additional_info = nil}
 MultiLanguageSpellData['fr'][471706] = {name = "Appel de l’orage", additional_info = "30 m de portée\n5 s d'incantation\n[q]Le lanceur ou la lanceuse fait tomber un puissant éclair qui inflige 100 point de dégâts de nature aux adversaires à moins de 30 m."}
-MultiLanguageSpellData['fr'][471717] = {name = "Barrage céleste", additional_info = "{Canalisée (2 s d'incantation} {) 18 s de recharge}\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n18 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
+MultiLanguageSpellData['fr'][471717] = {name = "Barrage céleste", additional_info = "Canalisée (2 s d'incantation)\n[q]– Attaque en ligne\n– Maintenir pour charger\n– Portée extrême\n\n18 s de recharge\n Fait tomber un barrage de rayons lunaires pour blesser les adversaires.\n\n Maintenir pour augmenter la portée."}
 MultiLanguageSpellData['fr'][471722] = {name = "Téléportation", additional_info = nil}
 MultiLanguageSpellData['fr'][471726] = {name = "Téléportation", additional_info = nil}
 MultiLanguageSpellData['fr'][471727] = {name = "Téléportation", additional_info = nil}
@@ -2235,3 +2235,7 @@ MultiLanguageSpellData['fr'][1218981] = {name = "Charge de bouclier", additional
 MultiLanguageSpellData['fr'][1220498] = {name = "Téléportation avec erreur", additional_info = "5 s d'incantation\n[q]Vous téléporte exactement où vous voulez aller… si vous n'êtes pas trop regardant."}
 MultiLanguageSpellData['fr'][1221338] = {name = "Coup de pied à la balle", additional_info = "40 m de portée\n{Instantanée} {5 s de recharge}\n[q]Envoyez la balle à un joueur allié. Si c’est possible, il la renverra automatiquement."}
 MultiLanguageSpellData['fr'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['fr'][1223890] = {name = "Aura de fanatisme", additional_info = nil}
+MultiLanguageSpellData['fr'][1223891] = {name = "Aura de fanatisme", additional_info = nil}
+MultiLanguageSpellData['fr'][1223893] = {name = "Aura de fanatisme", additional_info = nil}
+MultiLanguageSpellData['fr'][1223894] = {name = "Aura de fanatisme", additional_info = nil}
