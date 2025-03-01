@@ -1192,7 +1192,7 @@ MultiLanguageNpcData['fr'][176860] = {name = "Balise divine", subname = nil}
 MultiLanguageNpcData['fr'][176861] = {name = "Crédit de mort : baston ou bibine", subname = nil}
 MultiLanguageNpcData['fr'][176862] = {name = "Vorath", subname = "L'Impérissable"}
 MultiLanguageNpcData['fr'][176863] = {name = "Crédit de mort : Jarden vaincue", subname = nil}
-MultiLanguageNpcData['fr'][176864] = {name = "Vorath", subname = "L’Impérissable"}
+MultiLanguageNpcData['fr'][176864] = {name = "Vorath", subname = "L'Impérissable"}
 MultiLanguageNpcData['fr'][176865] = {name = "Vorath", subname = "Amalgame de colère"}
 MultiLanguageNpcData['fr'][176866] = {name = "Balise divine", subname = nil}
 MultiLanguageNpcData['fr'][176868] = {name = "Vorath", subname = "L'Impérissable"}
@@ -1256,10 +1256,10 @@ MultiLanguageNpcData['fr'][177001] = {name = "Forme d'âme", subname = nil}
 MultiLanguageNpcData['fr'][177002] = {name = "Forme d'âme", subname = nil}
 MultiLanguageNpcData['fr'][177004] = {name = "Amalgame torturé", subname = nil}
 MultiLanguageNpcData['fr'][177005] = {name = "Croisée Aubecœur", subname = nil}
-MultiLanguageNpcData['fr'][177008] = {name = "Vorath", subname = "L’Impérissable"}
-MultiLanguageNpcData['fr'][177009] = {name = "Vorath", subname = "L’Impérissable"}
-MultiLanguageNpcData['fr'][177010] = {name = "Vorath", subname = "L’Impérissable"}
-MultiLanguageNpcData['fr'][177011] = {name = "Vorath", subname = "L’Impérissable"}
+MultiLanguageNpcData['fr'][177008] = {name = "Vorath", subname = "L'Impérissable"}
+MultiLanguageNpcData['fr'][177009] = {name = "Vorath", subname = "L'Impérissable"}
+MultiLanguageNpcData['fr'][177010] = {name = "Vorath", subname = "L'Impérissable"}
+MultiLanguageNpcData['fr'][177011] = {name = "Vorath", subname = "L'Impérissable"}
 MultiLanguageNpcData['fr'][177012] = {name = "Crédit : crédit informatif du quartier commerçant", subname = nil}
 MultiLanguageNpcData['fr'][177013] = {name = "Crédit : crédit informatif de la Vieille ville", subname = nil}
 MultiLanguageNpcData['fr'][177014] = {name = "Crédit : crédit informatif du quartier des Nains", subname = nil}
