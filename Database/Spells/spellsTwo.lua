@@ -9008,6 +9008,7 @@ MultiLanguageSpellData['fr'][89184] = {name = "See Quest Invis 15", additional_i
 MultiLanguageSpellData['fr'][89185] = {name = "Vol", additional_info = nil}
 MultiLanguageSpellData['fr'][89186] = {name = "Schnottz fumant", additional_info = nil}
 MultiLanguageSpellData['fr'][89187] = {name = "Scarabée en origami", additional_info = nil}
+MultiLanguageSpellData['fr'][89188] = {name = "Scarabée en origami", additional_info = "Canalisée (4 s d'incantation)\n[q]Libère un petit essaim de scarabées."}
 MultiLanguageSpellData['fr'][89189] = {name = "Manger le visage", additional_info = nil}
 MultiLanguageSpellData['fr'][89190] = {name = "Manger le visage", additional_info = nil}
 MultiLanguageSpellData['fr'][89191] = {name = "En flammes", additional_info = nil}
@@ -20703,3 +20704,4 @@ MultiLanguageSpellData['fr'][1227666] = {name = "Don du Vol draconique bleu", ad
 MultiLanguageSpellData['fr'][1227909] = {name = "Protocole Crépuscule", additional_info = nil}
 MultiLanguageSpellData['fr'][1229476] = {name = "Vide de mana", additional_info = "Instantanée\n[q]100% du mana est absorbé en 5 secondes."}
 MultiLanguageSpellData['fr'][1230531] = {name = "Don du Vol draconique bleu", additional_info = nil}
+MultiLanguageSpellData['fr'][1231991] = {name = "Temps de recharge spécial créature", additional_info = "Instantanée"}
