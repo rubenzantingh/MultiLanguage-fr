@@ -40733,7 +40733,6 @@ MultiLanguageNpcData['fr'][112441] = {name = "Robert Nouvelâtre", subname = "Ch
 MultiLanguageNpcData['fr'][112442] = {name = "Chasseur de renards sacrenuit", subname = nil}
 MultiLanguageNpcData['fr'][112443] = {name = "Volpin", subname = "Renard"}
 MultiLanguageNpcData['fr'][112444] = {name = "Raptor céleste des hautes-terres", subname = nil}
-MultiLanguageNpcData['fr'][112445] = {name = "Johnny La Classe", subname = "Super Ville"}
 MultiLanguageNpcData['fr'][112446] = {name = "Crédit de 1%", subname = nil}
 MultiLanguageNpcData['fr'][112447] = {name = "Crédit de 3%", subname = nil}
 MultiLanguageNpcData['fr'][112448] = {name = "Crédit de 5%", subname = nil}

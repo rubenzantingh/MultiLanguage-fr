@@ -250,19 +250,10 @@ MultiLanguageNpcData['fr'][236058] = {name = "Gardienne Du'una", subname = nil}
 MultiLanguageNpcData['fr'][236059] = {name = "Membre d'équipage Brilleboulon", subname = nil}
 MultiLanguageNpcData['fr'][236060] = {name = "Membre d'équipage Coupepipe", subname = nil}
 MultiLanguageNpcData['fr'][236061] = {name = "Membre d'équipage Tournemanche", subname = nil}
-MultiLanguageNpcData['fr'][236063] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236064] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236065] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236066] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236067] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236068] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236069] = {name = "KC", subname = nil}
-MultiLanguageNpcData['fr'][236070] = {name = "KC", subname = nil}
 MultiLanguageNpcData['fr'][236083] = {name = "Zek'ul le Naufrageur", subname = nil}
 MultiLanguageNpcData['fr'][236086] = {name = "Akolÿt traqueur", subname = nil}
 MultiLanguageNpcData['fr'][236090] = {name = "Lieu saut Akolÿt", subname = nil}
 MultiLanguageNpcData['fr'][236092] = {name = "Blacksmith Bob", subname = nil}
-MultiLanguageNpcData['fr'][236095] = {name = "KC", subname = nil}
 MultiLanguageNpcData['fr'][236098] = {name = "Client indécis", subname = nil}
 MultiLanguageNpcData['fr'][236105] = {name = "Vince Pincefrippe", subname = "Vendeur de camelote"}
 MultiLanguageNpcData['fr'][236109] = {name = "Jane", subname = nil}
@@ -548,7 +539,6 @@ MultiLanguageNpcData['fr'][237813] = {name = "Rose", subname = "Assistant de Pil
 MultiLanguageNpcData['fr'][237815] = {name = "Ramasse-miettes", subname = nil}
 MultiLanguageNpcData['fr'][237816] = {name = "Nalrekk Cléplouf", subname = nil}
 MultiLanguageNpcData['fr'][237817] = {name = "Nostwin", subname = "Temps perdu et trésors oubliés"}
-MultiLanguageNpcData['fr'][237838] = {name = "KC TP", subname = nil}
 MultiLanguageNpcData['fr'][237848] = {name = "Venture Co. Electrician", subname = nil}
 MultiLanguageNpcData['fr'][237880] = {name = "D.I.S.C.O.", subname = nil}
 MultiLanguageNpcData['fr'][237883] = {name = "Etal de marché", subname = nil}
@@ -888,12 +878,10 @@ MultiLanguageNpcData['fr'][239419] = {name = "Monte Gazleu", subname = "Prince m
 MultiLanguageNpcData['fr'][239435] = {name = "Nervi imprégné de ténèbres", subname = nil}
 MultiLanguageNpcData['fr'][239447] = {name = "Fusée festive", subname = nil}
 MultiLanguageNpcData['fr'][239450] = {name = "Fusée festive", subname = nil}
-MultiLanguageNpcData['fr'][239458] = {name = "KC", subname = nil}
 MultiLanguageNpcData['fr'][239463] = {name = "Protecteur imprégné de ténèbres", subname = nil}
 MultiLanguageNpcData['fr'][239468] = {name = "Madame Gosu", subname = "Agente de liaison du marché noir"}
 MultiLanguageNpcData['fr'][239554] = {name = "Hovel Hill Wholesaler", subname = nil}
 MultiLanguageNpcData['fr'][239567] = {name = "Tank de guerre de Gazleu", subname = "Les chenilles qui redémarrent…"}
-MultiLanguageNpcData['fr'][239589] = {name = "KC", subname = nil}
 MultiLanguageNpcData['fr'][239607] = {name = "Bilgewater Local", subname = nil}
 MultiLanguageNpcData['fr'][239610] = {name = "Johnny La Classe", subname = "Super Ville"}
 MultiLanguageNpcData['fr'][239648] = {name = "Roi du chrome Gallywix", subname = nil}
