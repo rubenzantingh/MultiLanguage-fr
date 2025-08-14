@@ -40957,7 +40957,7 @@ MultiLanguageNpcData['fr'][167209] = {name = "Niall Kugal", subname = nil}
 MultiLanguageNpcData['fr'][167210] = {name = "Tabulateur Crève-Jarret", subname = "Estimateur de bataille"}
 MultiLanguageNpcData['fr'][167211] = {name = "Extracteur de souvenir", subname = nil}
 MultiLanguageNpcData['fr'][167212] = {name = "Seigneur de guerre Breka Hache-Sinistre", subname = nil}
-MultiLanguageNpcData['fr'][167213] = {name = "Approvisionneur Jin'hake", subname = nil}
+MultiLanguageNpcData['fr'][167213] = {name = "Approvisionneur Jin'hake", subname = "Réparations et fournitures"}
 MultiLanguageNpcData['fr'][167214] = {name = "Défenseur d'Agthia", subname = nil}
 MultiLanguageNpcData['fr'][167215] = {name = "Mithdran Traque-Aube", subname = "Maître des écuries"}
 MultiLanguageNpcData['fr'][167216] = {name = "Grunt Throg", subname = nil}

@@ -23714,7 +23714,7 @@ MultiLanguageNpcData['fr'][92865] = {name = "Portelaube d’argent", subname = n
 MultiLanguageNpcData['fr'][92866] = {name = "Portelaube d’argent", subname = nil}
 MultiLanguageNpcData['fr'][92867] = {name = "Restes de mornebroche pourrissant", subname = nil}
 MultiLanguageNpcData['fr'][92868] = {name = "Arbrisseau tréant", subname = nil}
-MultiLanguageNpcData['fr'][92870] = {name = "Fureur de Sindragosa", subname = nil}
+MultiLanguageNpcData['fr'][92870] = {name = "Fureur du wyrm de givre", subname = nil}
 MultiLanguageNpcData['fr'][92871] = {name = "Ysera Taxi Mouthpiece", subname = nil}
 MultiLanguageNpcData['fr'][92872] = {name = "Esprit", subname = nil}
 MultiLanguageNpcData['fr'][92873] = {name = "Dérègle-âme gangrelige", subname = nil}
