@@ -381,7 +381,7 @@ MultiLanguageNpcData['fr'][121404] = {name = "Objective Complete", subname = nil
 MultiLanguageNpcData['fr'][121405] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['fr'][121406] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['fr'][121407] = {name = "Objective Complete", subname = nil}
-MultiLanguageNpcData['fr'][121408] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][121408] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][121409] = {name = "Chevalier de la mort d'ébène", subname = nil}
 MultiLanguageNpcData['fr'][121410] = {name = "Redresseur de torts Boros", subname = nil}
 MultiLanguageNpcData['fr'][121411] = {name = "Myrmidon glissentaille", subname = nil}
@@ -662,7 +662,7 @@ MultiLanguageNpcData['fr'][121751] = {name = "Kill Credit: Go to Transport", sub
 MultiLanguageNpcData['fr'][121752] = {name = "Visqueux", subname = "Serviteur du roi-liche"}
 MultiLanguageNpcData['fr'][121753] = {name = "Grand amiral Jes-Tereth", subname = nil}
 MultiLanguageNpcData['fr'][121754] = {name = "Vereesa Coursevent", subname = "Général des forestiers du Concordat argenté"}
-MultiLanguageNpcData['fr'][121755] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][121755] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][121756] = {name = "Redresseur de torts Boros", subname = "Main d'Argus"}
 MultiLanguageNpcData['fr'][121757] = {name = "Soldat de marine de la 7e Légion", subname = nil}
 MultiLanguageNpcData['fr'][121758] = {name = "Canonnier de la 7e Légion", subname = nil}
@@ -6643,7 +6643,7 @@ MultiLanguageNpcData['fr'][128779] = {name = "Aethas Saccage-Soleil", subname = 
 MultiLanguageNpcData['fr'][128780] = {name = "Crogg de bataille", subname = nil}
 MultiLanguageNpcData['fr'][128781] = {name = "Dame Liadrin", subname = "Matriarche des chevaliers de sang"}
 MultiLanguageNpcData['fr'][128782] = {name = "Redresseur de torts Boros", subname = "Main d’Argus"}
-MultiLanguageNpcData['fr'][128783] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][128783] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][128784] = {name = "Vereesa Coursevent", subname = "Général des forestiers du Concordat argenté"}
 MultiLanguageNpcData['fr'][128785] = {name = "Redresseur de torts Boros", subname = "Main d’Argus"}
 MultiLanguageNpcData['fr'][128786] = {name = "Fra'kas", subname = nil}
@@ -7110,7 +7110,7 @@ MultiLanguageNpcData['fr'][129318] = {name = "Crabe glissesable", subname = nil}
 MultiLanguageNpcData['fr'][129319] = {name = "Gardelame Tarkaj", subname = nil}
 MultiLanguageNpcData['fr'][129320] = {name = "Perle de canalisation - poulet (tempête)", subname = nil}
 MultiLanguageNpcData['fr'][129321] = {name = "Perle de canalisation - poulet (courant)", subname = nil}
-MultiLanguageNpcData['fr'][129322] = {name = "Réorganisateur d'atours dépliable", subname = nil}
+MultiLanguageNpcData['fr'][129322] = {name = "Réorganisateur d'atours dépliable", subname = "Transmogrifieur"}
 MultiLanguageNpcData['fr'][129323] = {name = "Impératrice sabre-d'ivoire", subname = nil}
 MultiLanguageNpcData['fr'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['fr'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}
@@ -7584,7 +7584,7 @@ MultiLanguageNpcData['fr'][129867] = {name = "Zeppelin bombardier", subname = ni
 MultiLanguageNpcData['fr'][129868] = {name = "Vautour du canyon", subname = nil}
 MultiLanguageNpcData['fr'][129869] = {name = "Fouinard affamé", subname = nil}
 MultiLanguageNpcData['fr'][129870] = {name = "Maître-sanglier roncedos", subname = nil}
-MultiLanguageNpcData['fr'][129871] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][129871] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][129872] = {name = "Vereesa Coursevent", subname = "Général des forestiers du Concordat argenté"}
 MultiLanguageNpcData['fr'][129873] = {name = "Sentinelle des ruines", subname = nil}
 MultiLanguageNpcData['fr'][129874] = {name = "Trappeur infidèle", subname = nil}
@@ -14531,7 +14531,7 @@ MultiLanguageNpcData['fr'][137629] = {name = "Mékaru", subname = nil}
 MultiLanguageNpcData['fr'][137631] = {name = "Néri", subname = nil}
 MultiLanguageNpcData['fr'][137632] = {name = "Busard vorace", subname = nil}
 MultiLanguageNpcData['fr'][137633] = {name = "Busard vorace", subname = nil}
-MultiLanguageNpcData['fr'][137634] = {name = "Scierie des Hautes-Terres", subname = nil}
+MultiLanguageNpcData['fr'][137634] = {name = "Scierie des hautes-terres", subname = nil}
 MultiLanguageNpcData['fr'][137635] = {name = "Filon de Galson", subname = nil}
 MultiLanguageNpcData['fr'][137636] = {name = "Surveillant Bave-Gueule", subname = nil}
 MultiLanguageNpcData['fr'][137637] = {name = "Esprit de feu", subname = nil}
@@ -16977,7 +16977,7 @@ MultiLanguageNpcData['fr'][140196] = {name = "Prêtre de Zanza", subname = nil}
 MultiLanguageNpcData['fr'][140197] = {name = "Tonneaux fracassés", subname = nil}
 MultiLanguageNpcData['fr'][140198] = {name = "Zul le Prophète", subname = nil}
 MultiLanguageNpcData['fr'][140199] = {name = "Garrosh Hurlenfer", subname = "Chef de guerre"}
-MultiLanguageNpcData['fr'][140200] = {name = "Grunt de la scierie des Hautes-Terres", subname = nil}
+MultiLanguageNpcData['fr'][140200] = {name = "Grunt de la scierie des hautes-terres", subname = nil}
 MultiLanguageNpcData['fr'][140201] = {name = "Péon des Hautes-Terres", subname = nil}
 MultiLanguageNpcData['fr'][140202] = {name = "Archère darnassienne", subname = nil}
 MultiLanguageNpcData['fr'][140203] = {name = "Prêtre d'Hir'eek", subname = nil}
@@ -28357,7 +28357,7 @@ MultiLanguageNpcData['fr'][153080] = {name = "Voix de la reine", subname = "Gard
 MultiLanguageNpcData['fr'][153081] = {name = "Fêtard de la fête des Brasseurs", subname = nil}
 MultiLanguageNpcData['fr'][153082] = {name = "Fêtard de la fête des Brasseurs", subname = nil}
 MultiLanguageNpcData['fr'][153083] = {name = "Vethan du Coeur gelé", subname = nil}
-MultiLanguageNpcData['fr'][153084] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][153085] = {name = "Paladin sancteforge", subname = nil}
 MultiLanguageNpcData['fr'][153086] = {name = "Prêtre de guerre sancteforge", subname = nil}
 MultiLanguageNpcData['fr'][153087] = {name = "Rempart sancteforge", subname = nil}
@@ -31589,7 +31589,7 @@ MultiLanguageNpcData['fr'][156660] = {name = "Capitaine Garrick", subname = nil}
 MultiLanguageNpcData['fr'][156661] = {name = "Varlasen", subname = nil}
 MultiLanguageNpcData['fr'][156662] = {name = "Capitaine Garrick", subname = nil}
 MultiLanguageNpcData['fr'][156663] = {name = "Tisse-dimensions Ta'oren", subname = "Transmogrifieur"}
-MultiLanguageNpcData['fr'][156664] = {name = "Gardien du coffre Ta'khis", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][156664] = {name = "Gardien du coffre Ta'khis", subname = nil}
 MultiLanguageNpcData['fr'][156665] = {name = "Chasseur d'âmes honoré", subname = nil}
 MultiLanguageNpcData['fr'][156666] = {name = "Forgeron Au'berk", subname = "Maître des forgerons"}
 MultiLanguageNpcData['fr'][156667] = {name = "Ecorcheur Au'khem", subname = "Maître des dépeceurs"}
@@ -31701,7 +31701,7 @@ MultiLanguageNpcData['fr'][156796] = {name = "Etherlin sauvage", subname = nil}
 MultiLanguageNpcData['fr'][156797] = {name = "Kill Credit - Control Point", subname = nil}
 MultiLanguageNpcData['fr'][156798] = {name = "Kill Credit - Control Point Three", subname = nil}
 MultiLanguageNpcData['fr'][156799] = {name = "Henry Garrick", subname = nil}
-MultiLanguageNpcData['fr'][156800] = {name = "Intendante Richter", subname = "Fournitures"}
+MultiLanguageNpcData['fr'][156800] = {name = "Intendante Richter", subname = "Fournitures et réparations"}
 MultiLanguageNpcData['fr'][156801] = {name = "Soldat Cole", subname = nil}
 MultiLanguageNpcData['fr'][156802] = {name = "Bombe runique", subname = nil}
 MultiLanguageNpcData['fr'][156803] = {name = "Alaria", subname = nil}
@@ -41340,7 +41340,7 @@ MultiLanguageNpcData['fr'][167608] = {name = "Griffe-d'or fidèle", subname = ni
 MultiLanguageNpcData['fr'][167609] = {name = "Croc-de-Mort", subname = "Compagnon de Draka"}
 MultiLanguageNpcData['fr'][167610] = {name = "Démon de pierre mord-cheville", subname = nil}
 MultiLanguageNpcData['fr'][167611] = {name = "Eviscératrice vive-pierre", subname = nil}
-MultiLanguageNpcData['fr'][167612] = {name = "Saccageuse vive-pierre", subname = nil}
+MultiLanguageNpcData['fr'][167612] = {name = "Saccageur vive-pierre", subname = nil}
 MultiLanguageNpcData['fr'][167613] = {name = "Approvisionneur Kraus", subname = nil}
 MultiLanguageNpcData['fr'][167614] = {name = "Forge-os Heirmir", subname = nil}
 MultiLanguageNpcData['fr'][167615] = {name = "Sombrelame dépravée", subname = nil}

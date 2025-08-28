@@ -1830,7 +1830,7 @@ MultiLanguageNpcData['fr'][67009] = {name = "Apprenti moine", subname = nil}
 MultiLanguageNpcData['fr'][67010] = {name = "Psycho Mantid: Tik vs Kree'zot Bunny", subname = nil}
 MultiLanguageNpcData['fr'][67011] = {name = "Grunt garrosh’ar", subname = nil}
 MultiLanguageNpcData['fr'][67012] = {name = "Taran Zhu", subname = "Seigneur des Pandashan"}
-MultiLanguageNpcData['fr'][67013] = {name = "Gardien du coffre Meelad", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][67013] = {name = "Gardien du coffre Meelad", subname = nil}
 MultiLanguageNpcData['fr'][67014] = {name = "Tisse-dimensions Shafiee", subname = "Transmogrifieur"}
 MultiLanguageNpcData['fr'][67015] = {name = "Apprenti moine", subname = nil}
 MultiLanguageNpcData['fr'][67016] = {name = "Torse de la statue ancienne", subname = nil}
@@ -17376,9 +17376,9 @@ MultiLanguageNpcData['fr'][85282] = {name = "Petit dosoleil", subname = nil}
 MultiLanguageNpcData['fr'][85285] = {name = "Feezzel Rouqueboute", subname = "Ligue des explorateurs"}
 MultiLanguageNpcData['fr'][85286] = {name = "Chien du magma", subname = nil}
 MultiLanguageNpcData['fr'][85287] = {name = "Ranea Long-Sabot", subname = "Banquier de guilde"}
-MultiLanguageNpcData['fr'][85288] = {name = "Gardien du coffre Maeelthas", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][85288] = {name = "Gardien du coffre Maeelthas", subname = nil}
 MultiLanguageNpcData['fr'][85289] = {name = "Tisse-dimensions Farshlah", subname = "Transmogrifieur"}
-MultiLanguageNpcData['fr'][85290] = {name = "Gardien du coffre Sarniv", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][85290] = {name = "Gardien du coffre Sarniv", subname = nil}
 MultiLanguageNpcData['fr'][85291] = {name = "Tisse-dimensions Tuviss", subname = "Transmogrifieur"}
 MultiLanguageNpcData['fr'][85292] = {name = "Murgtar", subname = nil}
 MultiLanguageNpcData['fr'][85293] = {name = "Stigander Collet-de-Fer", subname = nil}
@@ -17974,7 +17974,7 @@ MultiLanguageNpcData['fr'][85958] = {name = "Bert Coupemonnaie", subname = "Banq
 MultiLanguageNpcData['fr'][85959] = {name = "Ernst ten Bosch", subname = "Maître de vol"}
 MultiLanguageNpcData['fr'][85960] = {name = "Limon sulfurique", subname = nil}
 MultiLanguageNpcData['fr'][85961] = {name = "Tisse-dimensions Shal", subname = "Transmogrifieur"}
-MultiLanguageNpcData['fr'][85962] = {name = "Gardien du coffre Nizsham", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][85962] = {name = "Gardien du coffre Nizsham", subname = nil}
 MultiLanguageNpcData['fr'][85963] = {name = "Orville Manfred", subname = "Maître des écuries"}
 MultiLanguageNpcData['fr'][85964] = {name = "Georgitte Tyron", subname = "Commissaire-priseur"}
 MultiLanguageNpcData['fr'][85965] = {name = "Marion Vosel", subname = "Maître des mascottes de combat"}
@@ -18382,7 +18382,7 @@ MultiLanguageNpcData['fr'][86392] = {name = "Redresseur de torts Nobundo", subna
 MultiLanguageNpcData['fr'][86393] = {name = "Long-voyant Drek’Thar", subname = nil}
 MultiLanguageNpcData['fr'][86394] = {name = "Loup", subname = nil}
 MultiLanguageNpcData['fr'][86395] = {name = "Tisse-dimensions Jasor", subname = "Transmogrifieur"}
-MultiLanguageNpcData['fr'][86396] = {name = "Gardien du coffre Vohra", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][86396] = {name = "Gardien du coffre Vohra", subname = nil}
 MultiLanguageNpcData['fr'][86397] = {name = "Infestation subversive", subname = nil}
 MultiLanguageNpcData['fr'][86398] = {name = "Tirailleur de Nagrand", subname = nil}
 MultiLanguageNpcData['fr'][86399] = {name = "Orc de la Main-Brisée", subname = nil}
@@ -29841,7 +29841,7 @@ MultiLanguageNpcData['fr'][99993] = {name = "Xaxion Drak'eem", subname = nil}
 MultiLanguageNpcData['fr'][99994] = {name = "Jorad Masse", subname = nil}
 MultiLanguageNpcData['fr'][99995] = {name = "Justicière Julia Céleste", subname = nil}
 MultiLanguageNpcData['fr'][99996] = {name = "Leoric von Zeldig", subname = nil}
-MultiLanguageNpcData['fr'][99997] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][99997] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][99998] = {name = "Chevalier-seigneur Vaillessang", subname = nil}
 MultiLanguageNpcData['fr'][99999] = {name = "Seigneur Solanar Hargnessang", subname = nil}
 MultiLanguageNpcData['fr'][100000] = {name = "Johnny La Super Classe", subname = nil}
@@ -48084,7 +48084,7 @@ MultiLanguageNpcData['fr'][120841] = {name = "Chasseuse-tueuse de la Légion", s
 MultiLanguageNpcData['fr'][120842] = {name = "Aelthalyste", subname = nil}
 MultiLanguageNpcData['fr'][120843] = {name = "Criminel amani", subname = nil}
 MultiLanguageNpcData['fr'][120844] = {name = "Alleria Coursevent", subname = nil}
-MultiLanguageNpcData['fr'][120845] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][120845] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][120846] = {name = "Vendeur zandalari", subname = "Commerçant"}
 MultiLanguageNpcData['fr'][120847] = {name = "Maître Bu", subname = nil}
 MultiLanguageNpcData['fr'][120849] = {name = "Prêtre de guerre", subname = nil}

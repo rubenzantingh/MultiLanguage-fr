@@ -7712,7 +7712,6 @@ MultiLanguageNpcData['fr'][12322] = {name = "Protecteur Quel'Lithien", subname =
 MultiLanguageNpcData['fr'][12336] = {name = "Frère Crowley", subname = "Emissaire de la Croisade écarlate"}
 MultiLanguageNpcData['fr'][12337] = {name = "Messager cramoisi", subname = nil}
 MultiLanguageNpcData['fr'][12338] = {name = "Gardien de Proie-de-l'Ombre", subname = nil}
-MultiLanguageNpcData['fr'][12339] = {name = "Demetria", subname = "L'oracle écarlate"}
 MultiLanguageNpcData['fr'][12340] = {name = "Drulzegar Krochekou", subname = nil}
 MultiLanguageNpcData['fr'][12341] = {name = "Cheval squelette bleu", subname = nil}
 MultiLanguageNpcData['fr'][12342] = {name = "Cheval squelette bai", subname = nil}
@@ -10383,7 +10382,7 @@ MultiLanguageNpcData['fr'][16882] = {name = "Console numérique", subname = nil}
 MultiLanguageNpcData['fr'][16883] = {name = "Monture de Silas", subname = nil}
 MultiLanguageNpcData['fr'][16884] = {name = "Cheval de guerre", subname = nil}
 MultiLanguageNpcData['fr'][16885] = {name = "Amythiel Marche-Brume", subname = nil}
-MultiLanguageNpcData['fr'][16886] = {name = "Arator le Rédempteur", subname = nil}
+MultiLanguageNpcData['fr'][16886] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['fr'][16887] = {name = "Oeil du bastion de l'Honneur", subname = nil}
 MultiLanguageNpcData['fr'][16888] = {name = "Mahuram Sabot-Robuste", subname = nil}
 MultiLanguageNpcData['fr'][16889] = {name = "Noceur de Hurlevent", subname = nil}
@@ -40570,7 +40569,7 @@ MultiLanguageNpcData['fr'][54439] = {name = "Avatar de Rhyolith", subname = nil}
 MultiLanguageNpcData['fr'][54440] = {name = "Avatar de Shannox", subname = nil}
 MultiLanguageNpcData['fr'][54441] = {name = "Thaumaturge Vashreen", subname = "Retoucheur arcanique"}
 MultiLanguageNpcData['fr'][54442] = {name = "Tisse-dimensions Hashom", subname = "Transmogrifieur"}
-MultiLanguageNpcData['fr'][54443] = {name = "Gardien du coffre Razhid", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][54443] = {name = "Gardien du coffre Razhid", subname = nil}
 MultiLanguageNpcData['fr'][54444] = {name = "Gnoll de la foire de Sombrelune", subname = nil}
 MultiLanguageNpcData['fr'][54445] = {name = "Echo de Jaina", subname = nil}
 MultiLanguageNpcData['fr'][54446] = {name = "Braise cœur-de-braise", subname = nil}
@@ -40581,7 +40580,7 @@ MultiLanguageNpcData['fr'][54466] = {name = "Gnoll de la foire de Sombrelune - b
 MultiLanguageNpcData['fr'][54467] = {name = "Tornade", subname = nil}
 MultiLanguageNpcData['fr'][54470] = {name = "Chimère de nostalgie", subname = nil}
 MultiLanguageNpcData['fr'][54471] = {name = "Thaumaturge Zajir", subname = "Retoucheur arcanique"}
-MultiLanguageNpcData['fr'][54472] = {name = "Gardien du coffre Jazra", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][54472] = {name = "Gardien du coffre Jazra", subname = nil}
 MultiLanguageNpcData['fr'][54473] = {name = "Tisse-dimensions Dushar", subname = "Transmogrifieur"}
 MultiLanguageNpcData['fr'][54474] = {name = "Brouillard du temps", subname = nil}
 MultiLanguageNpcData['fr'][54475] = {name = "Crabe", subname = nil}
@@ -47821,7 +47820,7 @@ MultiLanguageNpcData['fr'][64570] = {name = "Tan Canne Solide", subname = "Vende
 MultiLanguageNpcData['fr'][64571] = {name = "Puits de lumière", subname = nil}
 MultiLanguageNpcData['fr'][64572] = {name = "Sara Finklecoupe", subname = "Dresseuse de mascottes de combat"}
 MultiLanguageNpcData['fr'][64573] = {name = "Tisse-dimensions Ramahesh", subname = "Transmogrifieur"}
-MultiLanguageNpcData['fr'][64574] = {name = "Gardien du coffre Edouin", subname = "Chambre du Vide"}
+MultiLanguageNpcData['fr'][64574] = {name = "Gardien du coffre Edouin", subname = nil}
 MultiLanguageNpcData['fr'][64575] = {name = "Chan Hoi San", subname = "Réfugié de Kun-Lai"}
 MultiLanguageNpcData['fr'][64576] = {name = "Bandit", subname = "Mascotte de combat"}
 MultiLanguageNpcData['fr'][64577] = {name = "Le striduleur", subname = "Mascotte de combat"}
