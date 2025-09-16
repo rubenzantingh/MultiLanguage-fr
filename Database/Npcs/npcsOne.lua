@@ -7712,6 +7712,7 @@ MultiLanguageNpcData['fr'][12322] = {name = "Protecteur Quel'Lithien", subname =
 MultiLanguageNpcData['fr'][12336] = {name = "Frère Crowley", subname = "Emissaire de la Croisade écarlate"}
 MultiLanguageNpcData['fr'][12337] = {name = "Messager cramoisi", subname = nil}
 MultiLanguageNpcData['fr'][12338] = {name = "Gardien de Proie-de-l'Ombre", subname = nil}
+MultiLanguageNpcData['fr'][12339] = {name = "Demetria", subname = "L'oracle écarlate"}
 MultiLanguageNpcData['fr'][12340] = {name = "Drulzegar Krochekou", subname = nil}
 MultiLanguageNpcData['fr'][12341] = {name = "Cheval squelette bleu", subname = nil}
 MultiLanguageNpcData['fr'][12342] = {name = "Cheval squelette bai", subname = nil}
