@@ -1,3 +1,4 @@
+MultiLanguageNpcData['fr'][175417] = {name = "Sulanoom", subname = "Fabricante d’armes de Nathria (mythique)"}
 MultiLanguageNpcData['fr'][175418] = {name = "Mar'lan", subname = "Marchand d’armures faë nocturne"}
 MultiLanguageNpcData['fr'][175419] = {name = "Maître-artisan Lamda", subname = "Améliorations d'objets"}
 MultiLanguageNpcData['fr'][175420] = {name = "Griffe galeuse", subname = nil}
@@ -42570,7 +42571,7 @@ MultiLanguageNpcData['fr'][228764] = {name = "Désignation : garde-paix", subna
 MultiLanguageNpcData['fr'][228765] = {name = "Désignation : artisan", subname = nil}
 MultiLanguageNpcData['fr'][228766] = {name = "Désignation : chevaucheur de tempête", subname = nil}
 MultiLanguageNpcData['fr'][228767] = {name = "Designation: Machine Speaker", subname = nil}
-MultiLanguageNpcData['fr'][228768] = {name = "Designation: Archivist", subname = nil}
+MultiLanguageNpcData['fr'][228768] = {name = "Désignation : archiviste", subname = nil}
 MultiLanguageNpcData['fr'][228769] = {name = "Désignation : assermenté à Freya", subname = nil}
 MultiLanguageNpcData['fr'][228773] = {name = "lapin", subname = nil}
 MultiLanguageNpcData['fr'][228774] = {name = "bunny", subname = nil}
@@ -45541,4 +45542,3 @@ MultiLanguageNpcData['fr'][233139] = {name = "Machiniste Kromleg", subname = nil
 MultiLanguageNpcData['fr'][233142] = {name = "Client sinistre", subname = nil}
 MultiLanguageNpcData['fr'][233143] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['fr'][233144] = {name = "Bannière trempée algarie", subname = nil}
-MultiLanguageNpcData['fr'][233145] = {name = "Bannière algarie adulée", subname = nil}

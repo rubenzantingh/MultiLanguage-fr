@@ -47981,4 +47981,3 @@ MultiLanguageNpcData['fr'][64749] = {name = "Kur Castrapatte", subname = "Dompte
 MultiLanguageNpcData['fr'][64750] = {name = "Rob Jackson", subname = "Dompteuse de mascottes"}
 MultiLanguageNpcData['fr'][64751] = {name = "Mme Jackson", subname = "Dompteuse de mascottes"}
 MultiLanguageNpcData['fr'][64752] = {name = "Taner Halicioglu", subname = "Dompteuse de mascottes"}
-MultiLanguageNpcData['fr'][64753] = {name = "Sofi Nautica", subname = "Dompteur de mascottes"}

@@ -1,3 +1,4 @@
+MultiLanguageNpcData['fr'][120958] = {name = "Gangrechevalier xorothien", subname = nil}
 MultiLanguageNpcData['fr'][120959] = {name = "Nouvelle commande", subname = nil}
 MultiLanguageNpcData['fr'][120961] = {name = "Impact infernal", subname = nil}
 MultiLanguageNpcData['fr'][120962] = {name = "Chante-marée gangreflux", subname = nil}
@@ -48551,4 +48552,3 @@ MultiLanguageNpcData['fr'][175413] = {name = "Irizéphyr", subname = "Fabricant 
 MultiLanguageNpcData['fr'][175414] = {name = "Adéra", subname = "Fabricante d’armes de Nathria (normal)"}
 MultiLanguageNpcData['fr'][175415] = {name = "Harkoth", subname = "Fabricant d’armes de Nathria (héroïque)"}
 MultiLanguageNpcData['fr'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['fr'][175417] = {name = "Sulanoom", subname = "Fabricante d’armes de Nathria (mythique)"}

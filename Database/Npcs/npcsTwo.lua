@@ -1,3 +1,4 @@
+MultiLanguageNpcData['fr'][64753] = {name = "Sofi Nautica", subname = "Dompteur de mascottes"}
 MultiLanguageNpcData['fr'][64754] = {name = "Jaynevent Patel", subname = "Dompteuse de mascottes"}
 MultiLanguageNpcData['fr'][64755] = {name = "Sharyn Feuillargent", subname = "Dompteuse de mascottes"}
 MultiLanguageNpcData['fr'][64757] = {name = "Shonuf", subname = "Le tissefeu"}
@@ -48179,4 +48180,3 @@ MultiLanguageNpcData['fr'][120954] = {name = "Bannière de l'Alliance", subname 
 MultiLanguageNpcData['fr'][120955] = {name = "Bannière de la Horde", subname = nil}
 MultiLanguageNpcData['fr'][120956] = {name = "Idole purifiée d'Aviana", subname = nil}
 MultiLanguageNpcData['fr'][120957] = {name = "Desolation of the Moon Stalker", subname = nil}
-MultiLanguageNpcData['fr'][120958] = {name = "Gangrechevalier xorothien", subname = nil}
