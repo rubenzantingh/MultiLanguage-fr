@@ -32021,7 +32021,7 @@ MultiLanguageNpcData['fr'][215114] = {name = "Charrieur portefer", subname = nil
 MultiLanguageNpcData['fr'][215115] = {name = "Furet curieux", subname = nil}
 MultiLanguageNpcData['fr'][215116] = {name = "Souris curieuse", subname = nil}
 MultiLanguageNpcData['fr'][215118] = {name = "Cache explosive", subname = nil}
-MultiLanguageNpcData['fr'][215119] = {name = "Finkle Sharpshear", subname = "[Barber]"}
+MultiLanguageNpcData['fr'][215119] = {name = "Finkle Cizopointu", subname = "Barbier"}
 MultiLanguageNpcData['fr'][215120] = {name = "Elémentaire de foudre rampant", subname = nil}
 MultiLanguageNpcData['fr'][215125] = {name = "Gurnot", subname = nil}
 MultiLanguageNpcData['fr'][215126] = {name = "Adalar", subname = nil}
@@ -34815,7 +34815,7 @@ MultiLanguageNpcData['fr'][218549] = {name = "Brann Barbe-de-Bronze", subname = 
 MultiLanguageNpcData['fr'][218550] = {name = "Terror from Beyond", subname = nil}
 MultiLanguageNpcData['fr'][218551] = {name = "Drake rouge", subname = nil}
 MultiLanguageNpcData['fr'][218552] = {name = "Drake rouge", subname = nil}
-MultiLanguageNpcData['fr'][218553] = {name = "Red Drake", subname = nil}
+MultiLanguageNpcData['fr'][218553] = {name = "Drake rouge", subname = nil}
 MultiLanguageNpcData['fr'][218554] = {name = "Looming Entropy", subname = nil}
 MultiLanguageNpcData['fr'][218569] = {name = "Terrestre blessé", subname = nil}
 MultiLanguageNpcData['fr'][218574] = {name = "Poulet furieux", subname = nil}
@@ -37371,7 +37371,7 @@ MultiLanguageNpcData['fr'][222043] = {name = "Compte-fil de Rak-Ahat", subname =
 MultiLanguageNpcData['fr'][222045] = {name = "Ct'nak", subname = nil}
 MultiLanguageNpcData['fr'][222048] = {name = "Grenouille lacustre rappelée", subname = nil}
 MultiLanguageNpcData['fr'][222049] = {name = "Recalled Lake Frog (M)", subname = nil}
-MultiLanguageNpcData['fr'][222050] = {name = "Sureki Keeper", subname = nil}
+MultiLanguageNpcData['fr'][222050] = {name = "Gardien sureki", subname = nil}
 MultiLanguageNpcData['fr'][222051] = {name = "Kar'cada", subname = "Nouvelles, livres et cartes"}
 MultiLanguageNpcData['fr'][222053] = {name = "Limal", subname = "Nouvelles, livres et cartes"}
 MultiLanguageNpcData['fr'][222054] = {name = "L'vul", subname = nil}
