@@ -4666,6 +4666,7 @@ MultiLanguageNpcData['fr'][254092] = {name = "Eternia", subname = nil}
 MultiLanguageNpcData['fr'][254093] = {name = "Eternia", subname = nil}
 MultiLanguageNpcData['fr'][254164] = {name = "Geyser", subname = nil}
 MultiLanguageNpcData['fr'][254369] = {name = "Contrôleur", subname = nil}
+MultiLanguageNpcData['fr'][256938] = {name = "Serviteur amélioré de Khadgar", subname = nil}
 MultiLanguageNpcData['fr'][257023] = {name = "Hyène", subname = nil}
 MultiLanguageNpcData['fr'][257026] = {name = "Sabot-fourchu", subname = nil}
 MultiLanguageNpcData['fr'][257031] = {name = "Gangrechien", subname = nil}
