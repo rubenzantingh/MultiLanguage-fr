@@ -32464,7 +32464,7 @@ MultiLanguageNpcData['fr'][44333] = {name = "Marcy Lewis", subname = "Poisons et
 MultiLanguageNpcData['fr'][44334] = {name = "Donna Berrymore", subname = "Aubergiste"}
 MultiLanguageNpcData['fr'][44335] = {name = "Willard C. Bennington", subname = "Maître des écuries"}
 MultiLanguageNpcData['fr'][44336] = {name = "Stephan Kebbel", subname = "Fournitures de pêche"}
-MultiLanguageNpcData['fr'][44337] = {name = "Maurice Essman", subname = "Fournitures de forgeron"}
+MultiLanguageNpcData['fr'][44337] = {name = "Maurice Essman", subname = "Forgeron"}
 MultiLanguageNpcData['fr'][44338] = {name = "Poulet blanc", subname = nil}
 MultiLanguageNpcData['fr'][44339] = {name = "Salaran", subname = "Fabricant d'armes"}
 MultiLanguageNpcData['fr'][44340] = {name = "Janella", subname = "Nourriture et boissons"}
